@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"DEV Tutos","lang":"en-US","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"Front End","slug":"front-end","children":[]}],"git":{"updatedTime":1655336448000,"contributors":[{"name":"Desmond8500","email":"desmond8500@gmail.com","commits":1}]},"filePathRelative":"readme.md"}');export{e as data};
