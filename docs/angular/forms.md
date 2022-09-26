@@ -49,3 +49,4 @@ export class TestComponent implements onInit{
 ## Sources
 
 * [Monsterlessons: Angular Course 2021 - Building Real Project From Scratch ](https://www.youtube.com/watch?v=DyklxnC2XP0&t=1094s&ab_channel=MonsterlessonsAcademy)
+* [Confirmation password](https://aliasger.dev/quick-notes-implement-password-and-confirm-password-validation-in-angular)
