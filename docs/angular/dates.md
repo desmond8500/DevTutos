@@ -16,11 +16,11 @@ providers: [
 ## Utiliation dans un formulaire
 
 ```javascript
-    this.reportForm.patchValue({
-      objet: this.report?.objet,
-      date: formatDate(this.report?.date, 'yyyy-MM-dd', 'fr'),
-      description: this.report?.description,
-    })
+  this.reportForm.patchValue({
+    objet: this.report?.objet,
+    date: formatDate(this.report?.date, 'yyyy-MM-dd', 'fr'),
+    description: this.report?.description,
+  })
 ```
 
 ## Pipes

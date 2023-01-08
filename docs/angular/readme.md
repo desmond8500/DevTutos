@@ -12,5 +12,3 @@
 1. [Request](request.md)
 1. [Masonry](masonry.md)
 1. [Dates](dates.md)
-
-
