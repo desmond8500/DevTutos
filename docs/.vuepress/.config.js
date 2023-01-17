@@ -1,5 +1,5 @@
 module.exports = {
-    lang: 'en-US',
-    title: 'Hello, VuePress!',
-    description: 'This is my first VuePress site',
+    lang: 'fr-FR',
+    title: 'Content Tutos',
+    description: 'Gestion de Tutoriels',
 }
