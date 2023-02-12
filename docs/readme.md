@@ -13,3 +13,7 @@
 ## Technique
 
 1. [Securite](securite/readme.md)
+
+## Autre
+
+1. [Visual Studio Code](tools/vscode.md)
