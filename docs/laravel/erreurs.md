@@ -1,5 +1,7 @@
 # Gestion des Erreurs
 
+[Retour](../readme.md)
+
 ## curl error 60 ssl certificate problem unable to get local issuer certificate
 
 C'est une erreur qui surveient lorsqu'on utilise les requettes Http. Il faut télécharger le certificat [cacert.pem](https://curl.se/docs/caextract.html) et le coller dans le dossier php de la machine. Il faut ensuite modifier le fichier `php.ini`.  
@@ -19,3 +21,9 @@ curl.cainfo = "C:\php-7.4.30-Win32-vc15-x64/cacert.pem"
 ```
 
 Il faudra ensuite redemmarer le terminal
+
+## Route not defined
+
+```php
+php artisan optimize
+```
