@@ -1,5 +1,7 @@
 # Module de recherche
 
+[Retour](../readme.md)
+
 ## Description
 
 Faire une barre de recherche avec le filtrage
