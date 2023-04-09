@@ -3,7 +3,7 @@
 [Retour](../readme.md)
 
 * [Artisan](artisan.md)
-* [Carnon](carbon.md)
+* [Carbon](carbon.md)
 * [Dates](dates.md)
 * [Erreurs](erreurs.md)
 * [Expressions](expressions.md)
@@ -12,4 +12,6 @@
 * [Numbers](number.md)
 * [Packages](paqkages.md)
 * [Relations](relations.md)
+* [Stubs](stubs.md)
+* [Fonctions](fonctions.md)
   
