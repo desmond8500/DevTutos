@@ -4,7 +4,7 @@
 
 ## Description
 
-Il s'agit de perrsonnaliser les fichiers générés par laravel en utilisant la commande artisan.
+Il s'agit de personnaliser les fichiers générés par laravel en utilisant la commande artisan.
 
 ## Laravel
 
