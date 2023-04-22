@@ -14,4 +14,5 @@
 * [Relations](relations.md)
 * [Stubs](stubs.md)
 * [Fonctions](fonctions.md)
+* [Mail](mail.md)
   

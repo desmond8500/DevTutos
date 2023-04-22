@@ -27,3 +27,10 @@ Il faudra ensuite redemmarer le terminal
 ```php
 php artisan optimize
 ```
+
+## Connection could not be established with host mailhog :stream_socket_client()
+
+```console
+php artisan cache:clear
+php artisan config:clear
+```
