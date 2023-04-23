@@ -34,3 +34,11 @@ php artisan optimize
 php artisan cache:clear
 php artisan config:clear
 ```
+
+## Method Illuminate\Auth\RequestGuard::logout does not exist
+
+C'est lorsque le code `Auth::logout()` ne fonctionne pas il faudra utliser : 
+
+```code
+auth()->guard('web')->logout();
+```
