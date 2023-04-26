@@ -3,6 +3,7 @@
 ## Front End
 
 1. [Angular](angular)
+1. [Ionic](angular)
 1. [Flutter](flutter)
 1. [Html](html)
 
