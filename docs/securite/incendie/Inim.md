@@ -1,6 +1,4 @@
-# Inim 
-
-[Retour](../readme.md)
+# [Inim](readme.md)
 
 ## Description
 

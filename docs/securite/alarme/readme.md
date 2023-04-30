@@ -1,6 +1,4 @@
-# Alarme
-
-[Retour](../readme.md)
+# [Alarme](../readme.md)
 
 ## Table des matières
 

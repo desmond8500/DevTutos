@@ -1,6 +1,4 @@
-# Output
-
-[Retour](../readme.md)
+# [Output](readme.md)
 
 ## Description
 

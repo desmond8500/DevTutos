@@ -1,6 +1,4 @@
-# Stubs
-
-[Retour](../readme.md)
+# [Stubs](readme.md)
 
 ## Description
 

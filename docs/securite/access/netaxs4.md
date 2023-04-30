@@ -1,6 +1,4 @@
-# Titre
-
-[Retour](../readme.md)
+# [Titre](readme.md)
 
 ## Description
 

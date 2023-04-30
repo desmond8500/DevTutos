@@ -1,6 +1,4 @@
-# Numbers
-
-[Retour](../readme.md)
+# [Numbers](readme.md)
 
 ## Formater un nombre décimal
 

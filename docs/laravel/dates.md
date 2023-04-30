@@ -1,6 +1,4 @@
-# Dates
-
-[Retour](../readme.md)
+# [Dates](readme.md)
 
 ## Créer une nouvelle date
 

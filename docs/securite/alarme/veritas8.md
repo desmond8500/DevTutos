@@ -1,7 +1,4 @@
-# Véritas 8
-
-[Retour](../readme.md)
-
+# [Véritas 8](readme.md)
 
 ## Codes par défaut
 

@@ -1,6 +1,4 @@
-# Masonry
-
-[Retour](../readme.md)
+# [Masonry](readme.md)
 
 ## Description
 

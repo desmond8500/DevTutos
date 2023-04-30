@@ -1,6 +1,4 @@
-# Fonctions
-
-[Retour](../readme.md)
+# [Fonctions](readme.md)
 
 ## Description
 

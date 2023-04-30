@@ -1,6 +1,4 @@
-# NgRX
-
-[Retour](../readme.md)
+# [NgRX](readme.md)
 
 ## Description
 

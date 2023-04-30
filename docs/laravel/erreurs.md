@@ -1,6 +1,4 @@
-# Gestion des Erreurs
-
-[Retour](../readme.md)
+# [Gestion des Erreurs](readme.md)
 
 ## curl error 60 ssl certificate problem unable to get local issuer certificate
 

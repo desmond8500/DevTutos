@@ -1,6 +1,4 @@
-# Requettes HTTP
-
-[Retour](../readme.md)
+# [Requettes HTTP](readme.md)
 
 ## Observables
 

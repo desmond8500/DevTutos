@@ -1,6 +1,4 @@
-# CSS
-
-[Retour](../readme.md)
+# [CSS](../readme.md)
 
 ## Index
 

@@ -1,6 +1,4 @@
-# Relations
-
-[Retour](../readme.md)
+# [Relations](readme.md)
 
 ## Many to many
 
@@ -25,9 +23,3 @@ class userRole{
 
 
 ```
-
- 
-
-## Sources
-
-* []()

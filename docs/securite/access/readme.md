@@ -1,7 +1,6 @@
-# Controle d'accès
-
-[Retour](../readme.md)
+# [Controle d'accès](../readme.md)
 
 ## Table des matières
 
 * [NetAxs4](netaxs4.md)
+  

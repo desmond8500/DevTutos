@@ -1,6 +1,4 @@
-# Module de recherche
-
-[Retour](../readme.md)
+# [Module de recherche](readme.md)
 
 ## Description
 

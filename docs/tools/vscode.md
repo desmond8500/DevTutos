@@ -1,6 +1,4 @@
-# Visual Studio Code
-
-[Retour](../readme.md)
+# [Visual Studio Code](../readme.md)
 
 ## Description
 

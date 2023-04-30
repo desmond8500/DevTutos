@@ -1,4 +1,4 @@
-# [File input](../readme.md)
+# [File input](readme.md)
 
 ## Description
 

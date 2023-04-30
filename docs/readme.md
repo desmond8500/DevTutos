@@ -5,8 +5,8 @@
 1. [Html](html)
 1. [Css](css)
 1. [Angular](angular)
-1. [Ionic](angular)
-1. [Vue](vuepress/vuepress.md)
+1. [Ionic](ionic)
+1. [Vue](vue)
 1. [Flutter](flutter)
 
 ## Backend End

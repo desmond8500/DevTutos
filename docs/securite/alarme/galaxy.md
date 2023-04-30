@@ -1,6 +1,4 @@
-# Galaxy Dimension
-
-[Retour](../readme.md)
+# [Galaxy Dimension](readme.md)
 
 ## Changer de langue
 

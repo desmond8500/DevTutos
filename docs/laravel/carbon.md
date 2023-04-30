@@ -1,6 +1,4 @@
-# Carbon
-
-[Retour](../readme.md)
+# [Carbon](readme.md)
 
 ## Configuration d'une instance carbon
 

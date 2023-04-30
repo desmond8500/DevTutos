@@ -1,12 +1,22 @@
-# Commandes Artisan
+# [Commandes Artisan](readme.md)
 
-[Retour](../readme.md)
+[Retour]
 
-## Serve
+## Lancer le serveur
+
+Lancer un serveur simple
+
+```console
+php artisan serve
+```
+
+Lancer un serveur avec une adresse IP personnalisée
 
 ```console
 php artisan serve --host 192.168.1.1
 ```
+
+Lancer un serveur avec un port personnalisé
 
 ```console
 php artisan serve --post 8100

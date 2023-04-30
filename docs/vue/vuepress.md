@@ -1,6 +1,4 @@
-# Vuepress
-
-[Retour](../readme.md)
+# [Vuepress](readme.md)
 
 ## Installation
 

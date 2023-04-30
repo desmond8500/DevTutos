@@ -1,6 +1,4 @@
-# Angular Forms
-
-[Retour](../readme.md)
+# [Angular Forms](readme.md)
 
 ## Description
 

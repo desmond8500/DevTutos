@@ -1,6 +1,4 @@
-# Fichiers et dossiers
-
-[Retour](../readme.md)
+# [Fichiers et dossiers](readme.md)
 
 ## Créer un dossier
 

@@ -1,10 +1,8 @@
-# Ionic
-
-[Retour](../readme.md)
+# [Ionic](../readme.md)
 
 ## Table des matières
 
-1. [IInstallation](install.md)
+1. [Installation](install.md)
 
 ## Sources
 

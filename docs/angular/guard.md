@@ -1,6 +1,4 @@
-# Guard
-
-[Retour](../readme.md)
+# [Guard](readme.md)
 
 ## Description
 

@@ -1,6 +1,4 @@
-# Livewire
-
-[Retour](../readme.md)
+# [Livewire](readme.md)
 
 ## Fichiers par défaut
 

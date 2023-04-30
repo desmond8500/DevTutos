@@ -1,4 +1,4 @@
-# [Text](../readme.md)
+# [Text](readme.md)
 
 ## CCS personnalisé
 

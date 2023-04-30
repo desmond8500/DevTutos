@@ -1,6 +1,4 @@
-# Mai
-
-[Retour](../readme.md)
+# [Mail](readme.md)
 
 ## Test
 

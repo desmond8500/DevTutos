@@ -1,6 +1,4 @@
-# Modal
-
-[Retour](../readme.md)
+# [Modal](readme.md)
 
 ## Ouvir un modal à partir d'une methode
 
