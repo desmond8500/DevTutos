@@ -15,7 +15,7 @@
 
 ## Technique
 
-1. [Securite](securite/readme.md)
+1. [Sécurite](securite/readme.md)
 
 ## Autre
 
