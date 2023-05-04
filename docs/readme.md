@@ -20,3 +20,4 @@
 ## Autre
 
 1. [Visual Studio Code](tools/vscode.md)
+2. [Librairies](tools/libraires.md)
