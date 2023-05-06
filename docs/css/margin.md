@@ -48,4 +48,24 @@
   display: flex;
   justify-content: center;
 }
+.mx-auto{
+  display: flex;
+  justify-content: center;
+}
+.mx-end{
+  display: flex;
+  justify-content: left;
+}
+.mx-left{
+  display: flex;
+  justify-content: left;
+}
+.mx-start{
+  display: flex;
+  justify-content: right;
+}
+.mx-right{
+  display: flex;
+  justify-content: right;
+}
 ```
