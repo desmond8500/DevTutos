@@ -11,3 +11,4 @@
 9. [Requettes](request.md)
 10. [Recherche](searchCard.md)
 11. [Shared Modules](shared_module.md) 
+12. [Classes](class.md) 
