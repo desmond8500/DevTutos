@@ -16,4 +16,5 @@
 * [Fonctions](fonctions.md)
 * [Mail](mail.md)
 * [Migration](migration.md)
+* [Factory and Seeder](factory.md)
   
