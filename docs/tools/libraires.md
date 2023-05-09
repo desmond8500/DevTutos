@@ -9,6 +9,7 @@ Liste de librairies utiles.
 | Librairie | Utilitée | Technologies compatibles |
 |:--|:--|:--|
 | [Swiper JS](https://swiperjs.com/) | Carousel | Html, Vue, Ionic |
+| [Shields.io](https://shields.io/) | Badges pour les projets open source | -|
 
 ## Css
 
