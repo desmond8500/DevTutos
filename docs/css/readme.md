@@ -6,3 +6,4 @@
 * [Margin](margin.md)
 * [Text](text.md)
 * [Table](table.md)
+* [Boutons animés](animated_button.md)

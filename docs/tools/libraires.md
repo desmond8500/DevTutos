@@ -10,6 +10,7 @@ Liste de librairies utiles.
 |:--|:--|:--|
 | [Swiper JS](https://swiperjs.com/) | Carousel | Html, Vue, Ionic |
 | [Shields.io](https://shields.io/) | Badges pour les projets open source | -|
+| [Color picker](https://mui.com/material-ui/customization/color/) | générer une palette de couleurs | -|
 
 ## Css
 
