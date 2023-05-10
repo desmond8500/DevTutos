@@ -1,0 +1,32 @@
+# [Git](readme.md)
+
+## Changer un remote origin
+
+```console
+git remote set-url origin git://new.url.here
+```
+
+## Supprmer un remote
+
+```console
+git remote remove origin
+```
+
+## Suppression et ajout
+
+```console
+git remote remove origin
+git remote add origin yourRemoteUrl
+git push -u origin master
+
+```
+
+## Afficher la version
+
+```console
+git remote -v
+```
+
+## Sources
+
+* []()
