@@ -2,8 +2,10 @@
 
 ## Index
 
-* [Padding](padding.md)
-* [Margin](margin.md)
-* [Text](text.md)
-* [Table](table.md)
 * [Boutons animés](animated_button.md)
+* [Margin](margin.md)
+* [Padding](padding.md)
+* [Flexbox](flexbox.md)
+* [Table](table.md)
+* [Texte](text.md)
+* [Button](button.md)

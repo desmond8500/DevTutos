@@ -31,3 +31,15 @@ php artisan migrate:fresh
 ```console
 php artisan migrate:refresh
 ```
+
+## Maintenance
+
+Pour mettre le site en maintenance
+
+```console
+php artisan down
+```
+
+```console
+php artisan up
+```
