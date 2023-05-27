@@ -1,5 +1,20 @@
 # [Text](readme.md)
 
+## Nommer les lignes
+
+```html
+<table>
+    <tr>
+        <th>Name </th>
+        <th>Action </th>
+    </th>
+    <tr>
+        <td data-cell="name"> </td>
+        <td data-cell="action"> </td>
+    </tr>
+</table>
+```
+
 ## CCS personnalisé
 
 ```css
