@@ -20,3 +20,12 @@ Css Personnalisés
 .g-4 { gap: 2rem; }
 .g-5 { gap: 2.5rem; }
 ```
+
+## Cheatsheet
+
+* [Image](img/Fbzk3WHVsAAdxm9.jpg)
+* [Image](img/rofzm44oka091.png)
+
+## Source
+
+* [css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
