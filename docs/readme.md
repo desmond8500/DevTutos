@@ -8,6 +8,7 @@
 1. [Ionic](ionic)
 1. [Vue](vue)
 1. [Flutter](flutter)
+1. [TypeScript](typescript/readme.md)
 
 ## Backend End
 

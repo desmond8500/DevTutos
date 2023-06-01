@@ -10,5 +10,6 @@
 8. [Evenement](output.md)
 9. [Requettes](request.md)
 10. [Recherche](searchCard.md)
-11. [Shared Modules](shared_module.md) 
-12. [Classes](class.md) 
+11. [Shared Modules](shared_module.md)
+12. [Classes](class.md)
+13. [Auth Token](token.md)
