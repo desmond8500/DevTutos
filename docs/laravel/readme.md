@@ -17,4 +17,5 @@
 * [Mail](mail.md)
 * [Migration](migration.md)
 * [Factory and Seeder](factory.md)
+* [Validation](validation.md)
   
