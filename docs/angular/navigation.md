@@ -44,3 +44,16 @@ Pour affichier la route active il faudra utiliser l'attribut  ``routerLinkActive
 ```html
 <a routerLinkActive="active"/>
 ```
+
+## Navigation et paramètres
+
+```javascript
+constructor(
+private active_route: ActivatedRoute,
+) {}
+
+ngOnInit(): void {
+this.userid = this.active_route.snapshot.paramMap.get('id');
+}
+
+```

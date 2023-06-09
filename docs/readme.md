@@ -7,6 +7,7 @@
 1. [Angular](angular)
 1. [Ionic](ionic)
 1. [Vue](vue)
+1. [Astro](astro)
 1. [Flutter](flutter)
 1. [TypeScript](typescript/readme.md)
 
