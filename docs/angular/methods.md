@@ -2,16 +2,15 @@
 
 ## Description
 
-## Récupérer le premier caractère d'une chaine 
+## Récupérer le premier caractère d'une chaine
 
 ```javascript
 nom.substring(0,1)
 ```
 
-## Description
+## Tableaux
 
 Methodes utiles pour traiter les tableaux en javascript.  
-[Source](https://www.youtube.com/watch?v=R8rmfD9Y5-c)
 
 ```typescript
 const items = [
@@ -25,7 +24,7 @@ const items = [
 ]
 ```
 
-## Filter
+### Filter
 
 Permet de filter le contenu d'un tableau dans un autre tableau.
 
@@ -38,20 +37,20 @@ console.log(filteredItems)
 
 Il ne va retourner que des champs dont le prix est inférieur ou égal à 100.
 
-## Map
+### Map
 
 Permet de convertir un tableau en autre tableau.
 
 ```typescript
 const itemNames = items.map((item) => {
-    return item.price;
+    return item.name;
 });
 console.log(itemNames);
 ```
 
 Il ne récupère que la liste des prix.
 
-## Find
+### Find
 
 Permet de trouver un objet dans un tableau.
 
@@ -62,7 +61,7 @@ const foundItem = items.find((item) => {
 console.log(itemNames);
 ```
 
-## Foreach
+### Foreach
 
 Permet de parcourir un tableau.
 
@@ -74,7 +73,7 @@ items.forEach((item) => {
 
 Affiche chaque élément du tableau.
 
-## Some
+### Some
 
 Permet de vérifier si un certain type d'éléments existe dans un tableau.
 
@@ -106,6 +105,14 @@ Permet de vérifier si un élément existe dans un tableau, c'est une version si
 
 ```typescript
 const items = [1,2,3];
-const includesTwo = items.icludes(2);
+const includesTwo = items.includes(2);
 console.log(includesTwo);
 ```
+
+## Sources
+
+* [Tableaux WDS](https://www.youtube.com/watch?v=R8rmfD9Y5-c)
+
+## To See
+
+* [Typescript tricks](../typescript/tricks.md)

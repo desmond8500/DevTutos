@@ -10,12 +10,22 @@ Cela retourne `true` si la variable existe et `false` dans le cas contraire.
 
 ## Tableaux
 
+Créer un tableau vide
+
 ```javascript
 var = Array(8).fill(null)
 ```
 
+Retourner la taille d'un tableau
+
 ```javascript
 var.length
+```
+
+Trier un tableau
+
+```javascript
+let table = table1.toSorted()
 ```
 
 ## Source
