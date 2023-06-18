@@ -6,6 +6,7 @@
 1. [SwiperJS](swiper.md)
 1. [Shared Modules (Angular)](../angular/shared_module.md)
 1. [Toasts](toast.md)
+1. [Deploiement](deploy.md)
 
 ## Sources
 
