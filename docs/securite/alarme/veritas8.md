@@ -73,3 +73,25 @@ code + `PROG` + 79
 1 = Utilisateur  
 2 = Technicien  
 5 = Maitre utilisateur
+
+## types de zones
+
+1. appuyer pour armer
+2. Entrée inhibé
+3. Garde
+4. Incendie
+5. Autoprotection
+6. Entrée sortie
+7. Panique
+8. Clé déporté
+
+## Programmation de zone
+
+* Zone 1 =>  1234 + `PROG` + 11 + (type de zone)+ `PROG`
+* Zone 2 =>  1234 + `PROG` + 12 + (type de zone)+ `PROG`
+* Zone 3 =>  1234 + `PROG` + 13 + (type de zone)+ `PROG`
+* Zone 4 =>  1234 + `PROG` + 14 + (type de zone)+ `PROG`
+* Zone 5 =>  1234 + `PROG` + 15 + (type de zone)+ `PROG`
+* Zone 6 =>  1234 + `PROG` + 16 + (type de zone)+ `PROG`
+* Zone 7 =>  1234 + `PROG` + 17 + (type de zone)+ `PROG`
+* Zone 8 =>  1234 + `PROG` + 18 + (type de zone)+ `PROG`
