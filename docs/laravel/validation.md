@@ -9,6 +9,32 @@ private $rules = [
 
 ```
 
+## Date
+
+Antérieur à une date
+
+```php
+private $rules = [ 'date' => 'before:date']
+```
+
+Antérieur ou égal à une date
+
+```php
+private $rules = [ 'date' => 'before_or_equal:date']
+```
+
+Postérieur à une date
+
+```php
+private $rules = [ 'date' => 'after:date']
+```
+
+Postérieur ou égal à une date
+
+```php
+private $rules = [ 'date' => 'after_or_equal:date']
+```
+
 ## Sources
 
 * [Laravel Validation](https://laravel.com/docs/10.x/validation#rule-exists)
