@@ -29,6 +29,13 @@ public function build()
 }
 ```
 
+```php
+public function build()
+{
+    return $this->from($user)->view('_tabler.mails.report_mail');
+}
+```
+
 ## Sources
 
 * [Laravel Mail](https://laravel.com/docs/10.x/mail#configuring-the-sender)
