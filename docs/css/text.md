@@ -1,5 +1,11 @@
 # [Text](readme.md)
 
+## Balance
+
+```css
+text-wrap: balance;
+```
+
 ## CCS personnalisé
 
 ```css

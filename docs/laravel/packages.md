@@ -15,6 +15,20 @@
 * [Jetstrap](https://github.com/nascent-africa/jetstrap)
 * [laravel cascade softdeletes](https://github.com/michaeldyrynda/laravel-cascade-soft-deletes)
 
+## Créer un package
+
+1. Cloner le package suivant :
+
+   ```console
+   git clone https://github.com/spatie/package-skeleton-laravel
+   ```
+
+1. Configurer le package:
+
+    ```console
+    php ./configure.php
+    ```
+
 ## Images
 
 * [Highlight JS](https://highlightjs.org/laravel)

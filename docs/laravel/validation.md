@@ -1,6 +1,6 @@
 # [Validation](readme.md)
 
-## *exists* Existe dans la base de donnée
+## **exists** Existe dans la base de donnée
 
 ```php
 private $rules = [
