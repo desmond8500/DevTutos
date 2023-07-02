@@ -14,7 +14,7 @@
 ## Backend End
 
 1. [Laravel](laravel)
-2. [Gestion de projet Inoformatique](projet.md)
+2. [Gestion de projet Informatique](projet.md)
 
 ## Technique
 

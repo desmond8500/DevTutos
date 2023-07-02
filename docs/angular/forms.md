@@ -46,6 +46,17 @@ export class TestComponent implements onInit{
 </form>
 ```
 
+## Reactive forms
+
+### patch value
+
+```javascript
+this.competenceForm.patchValue({
+    freelance_id: this.freelance.id,
+    niveau: this.niveau,
+})
+```
+
 ## Sources
 
 * [Monsterlessons: Angular Course 2021 - Building Real Project From Scratch ](https://www.youtube.com/watch?v=DyklxnC2XP0&t=1094s&ab_channel=MonsterlessonsAcademy)
