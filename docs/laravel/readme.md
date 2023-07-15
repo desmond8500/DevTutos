@@ -1,4 +1,10 @@
-# [Laravel](../readme.md)
+# [Laravel 10](../readme.md)
+
+## Installation
+
+```console
+composer create-project laravel/laravel example-app
+```
 
 ## Table des matières
 
@@ -18,4 +24,8 @@
 * [Migration](migration.md)
 * [Factory and Seeder](factory.md)
 * [Validation](validation.md)
+
+## Source
+
+* [Laravel Documentation](https://laravel.com/docs/10.x)
   

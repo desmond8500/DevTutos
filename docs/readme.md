@@ -20,6 +20,10 @@
 
 1. [Sécurite](securite/readme.md)
 
+## Islam
+
+1. [Islam](islam/)
+
 ## Autre
 
 1. [Visual Studio Code](tools/vscode.md)
