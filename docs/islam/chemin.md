@@ -11,8 +11,8 @@ Allaiter les enfants pendant 2 ans, c'est un contraceptif naturel ^1
 
 ## Protection
 
+* Protection de la foi (religion)
 * Protection de la vie
-* Protection de la foi
 * Protection de la famille
 * Protection des biens
 * Protection de la raison

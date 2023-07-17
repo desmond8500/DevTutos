@@ -3,6 +3,7 @@
 ## Description
 
 * [Honeywell](honeywell.md)
+* [Hikvision](hikvision.md)
 
 ## Sources
 
