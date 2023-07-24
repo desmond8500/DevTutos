@@ -16,7 +16,7 @@ composer create-project laravel/laravel example-app
 * [Fichiers](fichiers.md)
 * [Livewire](livewire.md)
 * [Numbers](number.md)
-* [Packages](paqkages.md)
+* [Packages](packages.md)
 * [Relations](relations.md)
 * [Stubs](stubs.md)
 * [Fonctions](fonctions.md)
@@ -24,6 +24,10 @@ composer create-project laravel/laravel example-app
 * [Migration](migration.md)
 * [Factory and Seeder](factory.md)
 * [Validation](validation.md)
+
+## Packages
+
+* [Laravel Sanctum](sanctum.md)
 
 ## Source
 

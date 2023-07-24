@@ -17,13 +17,13 @@ Il faudra choisir can activate
 Dans le fichier `guards/auth.ts`
 
 ```javascript
-canActivate() {
+canActivate(): boolean {
     if(auth){
-        return true
     }
 
     alert("Vous n'êtes pas autorisé à accéder à cette page")
     this.router.navigate['index']
+        return true
 }
 ```
 
