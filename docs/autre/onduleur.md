@@ -6,7 +6,7 @@ UPS : Uninterruptible Power Supply
 
 ## Type d'onduleurs
 
-![Alt text](bien_choisir_son_onduleur.jpg)
+![Onduleur](onduleur.jpg)
 
 ## Notion de puissance
 
