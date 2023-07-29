@@ -1,5 +1,12 @@
 # [Modeles](readme.md)
 
+## Artisan
+
+* factory : -f
+* seeder: -s
+* controller -c
+* 
+
 ## Personnalisation des champs
 
 * Valeur par défaut

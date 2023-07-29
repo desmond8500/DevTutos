@@ -9,6 +9,7 @@ composer create-project laravel/laravel example-app
 ## Table des matières
 
 * [Artisan](artisan.md)
+* [Modèles](modeles.md)
 * [Carbon](carbon.md)
 * [Dates](dates.md)
 * [Erreurs](erreurs.md)

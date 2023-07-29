@@ -2,7 +2,7 @@
 
 ## curl error 60 ssl certificate problem unable to get local issuer certificate
 
-C'est une erreur qui surveient lorsqu'on utilise les requettes Http. Il faut télécharger le certificat [cacert.pem](https://curl.se/docs/caextract.html) et le coller dans le dossier php de la machine. Il faut ensuite modifier le fichier `php.ini`.  
+C'est une erreur qui survient lorsqu'on utilise les requettes Http. Il faut télécharger le certificat [cacert.pem](https://curl.se/docs/caextract.html) et le coller dans le dossier php de la machine. Il faut ensuite modifier le fichier `php.ini`.  
 
 ```ini
 [curl]

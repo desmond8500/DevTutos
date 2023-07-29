@@ -43,3 +43,15 @@ php artisan down
 ```console
 php artisan up
 ```
+
+## Cache
+
+Vider le cache
+
+```console
+php artisan optimize:clear
+```
+
+## Source
+
+* [Cache](https://dev.to/kenfai/laravel-artisan-cache-commands-explained-41e1)
