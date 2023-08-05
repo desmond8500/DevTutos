@@ -1,8 +1,32 @@
 # [Déploiement](readme.md)
 
+## Installation de capacitor
+
+Installation de capacitor CLI :
+
+```console
+npm install @capacitor/core @capacitor/cli
+```
+
+Installer la plateforme désirée :
+
+```console
+npm install @capacitor/android
+npx cap add android
+npm install @capacitor/ios
+npx cap add ios
+```
+
+Ouvrir le projet 
+
+```console
+npx cap open android
+```
+
+
 ## Description
 
-Faire un puild pour vérifier que le projet n'a pas d'erreurs
+Faire un build pour vérifier que le projet n'a pas d'erreurs.
 
 ```console
 ionic build
@@ -25,6 +49,7 @@ Ouvrir le projet sous android studio
 
 ```console
 ionic cap open android
+npx cap open android
 ```
 
 Live reload

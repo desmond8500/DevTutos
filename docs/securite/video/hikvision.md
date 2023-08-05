@@ -12,6 +12,10 @@ Pour configurer une caméra qui a plusieurs vues il faut configurer la caméras 
 
 ![img](./img/configuration.png)
 
+## Réparer un connecteur endommagé
+
+![code](./img/colors.png)
+
 ## Sources
 
 * []()
