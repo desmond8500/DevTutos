@@ -13,7 +13,7 @@ Allaiter les enfants pendant 2 ans, c'est un contraceptif naturel ^1
 
 * Protection de la foi (religion)
 * Protection de la vie
-* Protection de la famille
+* Protection de la famille, l(honneur, la descendance)
 * Protection des biens
 * Protection de la raison
 
@@ -24,3 +24,12 @@ Allaiter les enfants pendant 2 ans, c'est un contraceptif naturel ^1
 ## Note
 
 ^1 0 vérifier
+
+## Divorce
+
+* une femme divorvée doit attendre 3 cycles avant de pouvoir aller avec un autre homme
+* une veuve doit rester 4 mois et 10 jours
+
+## Héritage
+
+* La mère du défaut prend 1/3 s'il n'a pas d'enfants, sinon c'est 1/6
