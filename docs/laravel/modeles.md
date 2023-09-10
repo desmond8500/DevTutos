@@ -5,7 +5,6 @@
 * factory : -f
 * seeder: -s
 * controller -c
-* 
 
 ## Personnalisation des champs
 
@@ -62,4 +61,23 @@ use App\Models\User;
 $user = User::find(1);
 
 $firstName = $user->first_name;
+```
+
+## Relations
+
+```php
+public function comments()
+{
+    return $this->hasMany('Comment')->orderBy('column');
+}
+```
+
+```php
+ public function index()
+    {
+        $column = Input::get('orderBy', 'defaultColumn');
+        $comments = User::find(1)->comments()->orderBy($column)->get();
+
+        // use $comments in the template
+    }
 ```
