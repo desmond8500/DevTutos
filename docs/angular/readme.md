@@ -19,3 +19,7 @@
 1. [Deploiement](deploiement.md)
 1. [Methodes](methods.md)
 1. [Validations](validation.md)
+
+## Modèles
+
+1. [Format des fichiers TS](ts_model.md)
