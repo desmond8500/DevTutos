@@ -12,7 +12,7 @@
     ngOnInit() {
     }
 
-    // Fonctionalité -----------------------------------------
+// Fonctionalité -----------------------------------------
 
     variable_methode: any
 

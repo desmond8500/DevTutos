@@ -33,3 +33,7 @@ Allaiter les enfants pendant 2 ans, c'est un contraceptif naturel ^1
 ## Héritage
 
 * La mère du défaut prend 1/3 s'il n'a pas d'enfants, sinon c'est 1/6
+
+## Vidéos
+
+* [Les nouveaux pharaons et leurs sorciers](https://www.youtube.com/watch?v=GfFBvI2TQ1M)
