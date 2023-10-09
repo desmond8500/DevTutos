@@ -81,3 +81,12 @@ public function comments()
         // use $comments in the template
     }
 ```
+
+## Dupliquer un modèle
+
+```php
+$post = Post::find(1);
+$newPost = $post->replicate();
+$newPost->created_at = Carbon::now();
+$newPost->save();
+```

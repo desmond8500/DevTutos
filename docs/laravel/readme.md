@@ -26,6 +26,7 @@ composer create-project laravel/laravel example-app
 * [Migration](migration.md)
 * [Factory and Seeder](factory.md)
 * [Validation](validation.md)
+* [API](api.md)
 
 ## Packages
 

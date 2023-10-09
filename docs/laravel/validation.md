@@ -1,5 +1,11 @@
 # [Validation](readme.md)
 
+## Unique
+
+```php
+'email' => 'unique:App\Models\User,email_address'
+```
+
 ## **exists** Existe dans la base de donnée
 
 ```php
