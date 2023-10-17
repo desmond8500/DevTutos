@@ -77,6 +77,8 @@ Menu / Organigramme
 
 ## Ajouter des cartes
 
+* Le checkin ecrase les cartes précédentes
+* 
 
 
 ## Sources
