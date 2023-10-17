@@ -48,11 +48,35 @@ Menu / Organigramme
    4. Organigramme
       1. Choisir le type de cartes qui ont accès à la chambre
 
+* _Carte programmation_ permet de programmer des cartes manuellement
+* _Show low battery_ n'est pas activé pour les hotels
+* _Privacité_ à activer pour les chambres
 
+## Type de chambre
 
-* *Carte programmation* permet de programmer des cartes manuellement
-* *Show low battery* n'est pas activé pour les hotels
-* *Privacité* à activer pour les chambres 
+* Chambre
+* Foyer = tout le monde avec une carte valide a accès
+* Selective = on peut selectionner les portes
+  * un menu carte autaurisés apparait
+  * on selectionne les chambres ou les profils
+* Suite
+* En lien
+* Groupe de suite
+
+## Finlaisation de la configuration
+
+1. Menu orgnigramme
+2. Terminer
+3. Donner le nombre de serrures finaux prévus
+4. On finalise une seule fois sauf si le nombre prévisionnel est dépassé.
+
+## Ajouter un encodeur
+
+1. Menu configuration
+2. Scanner
+
+## Ajouter des cartes
+
 
 
 ## Sources
