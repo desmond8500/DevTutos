@@ -1,5 +1,13 @@
 # [Git](readme.md)
 
+## Récupérer le dernier
+
+```console
+git show HEAD
+```
+
+[Source](https://www.warp.dev/terminus/git-commit-history)
+
 ## Changer un remote origin
 
 ```console

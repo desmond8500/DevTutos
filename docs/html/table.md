@@ -1,5 +1,13 @@
 # [Table](readme.md)
 
+## Attributs de tableau
+
+```htm
+<table bgcolor="#efefef">
+
+</table>
+```
+
 ## Bonnes pratiques
 
 * Ajouter des datacell aux tables
