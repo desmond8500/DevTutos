@@ -4,6 +4,14 @@
 
 Les fichiers de migration
 
+## Migration
+
+Enum :
+
+```php
+$table->enum('genre',['Homme','Femme']);
+```
+
 ## Rollback
 
 ```console

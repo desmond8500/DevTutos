@@ -27,8 +27,10 @@ Les seeders et les factories permettent de générer rapidement des données al�
 
     public function definition()
     {
+        $genre = fake()->('Female', 'Male');
         return [
             'name' => $this->faker->name,
+            'genre' => $genre
         ];
     }
     ```
@@ -36,7 +38,7 @@ Les seeders et les factories permettent de générer rapidement des données al�
 1. Configurer les seeders
 
     ```php
-     // protected $model = Client::class;
+    protected $model = Client::class;
 
     public function run()
     {
@@ -79,3 +81,4 @@ $user = User::factory()
 ## Sources
 
 * [Laravel](https://laravel.com/docs/10.x/eloquent-factories)
+* [Factory](https://kinsta.com/fr/blog/laravel-model-factories/)
