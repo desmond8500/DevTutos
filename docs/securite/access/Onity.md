@@ -78,9 +78,33 @@ Menu / Organigramme
 ## Ajouter des cartes
 
 * Le checkin ecrase les cartes précédentes
-* 
 
+## Désinstaller et reinstaller Onportal
+
+Dans le dossier onPortal lancer le fichier *PostUnistallCleanup* puis relancer le service onPortal
+
+## Connexion en tant que client
+
+* Identifiant / password / nom du serveur / numéro de port
+
+## Initiamlisation de serrure
+
+1. Maintenance
+2. Intilisation
+3. Choisir une serrure
+4. Initialiser
+
+## Roles
+
+1. Security
+
+Lorsqu'on annule une carte staff et qu'on en crée une autre toutes les cartes du profils seront inactive
 
 ## Sources
 
 * [Lien de téléchargement](https://www.onity.net/portal/35/a4gg6-rv5q2-7ekmo)
+
+## Onity Flasher
+
+1. Arreter le service onportal
+2. Dans le dossier front desk client
