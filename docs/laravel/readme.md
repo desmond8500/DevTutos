@@ -32,6 +32,7 @@ composer create-project laravel/laravel example-app
 * [Validation](validation.md)
 * [API](api.md)
 * [Composer](composer.md)
+* [Cashier](cashier.md)
 
 ## Packages
 
