@@ -33,6 +33,7 @@ composer create-project laravel/laravel example-app
 * [API](api.md)
 * [Composer](composer.md)
 * [Cashier](cashier.md)
+* [Trait](trait.md)
 
 ## Packages
 

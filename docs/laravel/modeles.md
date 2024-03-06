@@ -90,3 +90,21 @@ $newPost = $post->replicate();
 $newPost->created_at = Carbon::now();
 $newPost->save();
 ```
+
+## Scopes
+
+Les scopes sont une fonctionalité d'Eloquent qui permet de définir des requettes unitilisables.
+
+```php
+// User.php (Eloquent Model)
+
+public function scopeActive($query)
+{
+    return $query->where('status', 'active');
+}
+
+// Usage:
+$activeUsers = User::active()->get();
+```
+
+[Source](https://arjunamrutiya.medium.com/mastering-laravel-scope-a-comprehensive-guide-with-code-examples-daa54a4ee633)
