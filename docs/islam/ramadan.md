@@ -14,7 +14,7 @@
 
 ### Nuit 1
 
-10 Rakas : 1 Fatiha, 2 Kafirouna1, 2 Ikhlas  
+10 Rakas : 1 Fatiha, 2 Kafirouna, 2 Ikhlas  
 
 Récompense: Préservation de l'enfer et exaucement des voeux
 
@@ -24,13 +24,17 @@ Récompense: Préservation de l'enfer et exaucement des voeux
 
 Récompense: Tous les péchés seront pardonnés à celui qui le fait, et il aura les récompense d'un docteur ayant soigné 1000 malades à ses frais.
 
-
-
-### Nuit 2
+### Nuit 3
 
 6 Rakas : 1 Fatiha, 5 Quadri
 
 Récompense: Vous aurez les bienfaits de celui qui a libéré 1000 esclaves, nourri, abrreuvé,et habillé 1000 personnes, Allah vous protègerea contre les tourments de la tombe et la crainte de la mort.
+
+### Nuit 4
+
+4 Rakas : 1 Fatiha, 3 Kafiroun
+
+Récompense: Vos péchés seront effacés ipso facto, et il vous sera accordé les récompenses de 1000 croyants dévots et de 1000 martyrs.
 
 ## Sources
 
