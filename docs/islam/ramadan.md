@@ -52,9 +52,22 @@ Sa tombe sera une des places du paradis, vous vous reveillerez de votre tombe le
 
 ### Nuit 7
 
-[x]  6 Rakas : 1 Fatiha, 7 Kafiroun, 7 ikhlass
+[ ]  6 Rakas : 1 Fatiha, 7 Kafiroun, 7 ikhlass
 
 **Récompense :** Allah inscrira à votre profil, pour chaque lettre lue, des bienfaits agrées et vous aurez les récompenses de cuelui qui a fait la charité de 1000 dinars et vous ne demanderez rien qui ne soit exaucé; pour chaue lettre lue on construira pour vous un palais au paradis.  
+
+### Nuit 8
+
+[ ]  2 Rakas : 1 Fatiha, 12 ikhlass
+
+**Récompense :** Allah inscrira à votre profil, pour chaque lettre lue, les dévotions de 1000ans et il aura les récompenses de celui qui aura restauré la communauté du prophète pendant 70 ans, il aura la récompense de celui qui aurait libéré 1000 fils d'Ismael, et saa prière auprès d'Allah sera exaucé.  
+Au jour du jugement dernier, il se lèvera de son tombeau comblé de lumière devant et dérrière lui et il traversera le pont sirat come un éclair fulgurant; il intercédera pour 70 des siens qui étaient promis à l'enfer. 
+
+### Nuit 9
+
+[ ]  4 Rakas : 1 Fatiha, 7 tabat yada, 7 ikhlass
+
+**Récompense :** Allah vous donnera l'équivalence des récompenses des patiens et des reconnaissants et vous aurez les récompenses de celui qui a lu le glorieux Coran et on inscrira à votre compte les bienfaits de 70 années de dévotion à Allah. on lui affectera deu anges qui inscriront vos bienfaits et effacerons vos péchés jusqu'au jour du jugement dernier: Allah agréeera vos prières et votre jeune.  
 
 ## Sources
 
