@@ -1,14 +1,24 @@
 # [Ramadan](readme.md)
 
-## Description
+## [Description](https://defimedia.info/mois-sacre-le-ramadan-une-veritable-source-spirituelle-qui-renforce-la-foi)
 
-## Invocation à la rupture du jeune
+Le Ramadan débute et prend fin avec l’apparition du croissant de lune. Le Ramadan dure 29 à 30 jours. Pendant ce mois sacré, les musulmans doivent s’abstenir de boire et de manger à l’aube avant le lever du soleil, jusqu’au coucher du soleil. Ils doivent aussi s’éloigner de tout ce qui est interdit, selon l’enseignement islamique, et surtout consacré tout ce mois à la prière.
 
-`Allâhoumma laka Soumtou, wa bika âmanntou, wa ‘alâ rizqika aftartou, fâghfirlî  mâ            qaddamtou  wa mâ akhartou .`
+Selon le Mowlana Sameer, le Ramadan est le moment pour le fidèle musulman de se ressourcer spirituellement et d’atteindre la « taqwa » (la piété) afin d’améliorer sa relation avec le Créateur. « Le but du Ramadan est d’avoir la piété et de craindre le Créateur. Observer le Ramadan est une obligation pour chaque musulman. C’est un mois ponctué par le jeûne et la prière.
 
-« Seigneur ! C’est pour Toi que j’ai jeûné, et j’ai cru en Toi. J’ai rompu mon  jeûne  en goûtant de Ton bien. Pardonne-moi (mes fautes) passées et à venir »
+Mais c’est aussi le moment d’adopter une attitude exemplaire en évitant les conflits et de faire le bien autour de soi. Les prières qui sont dites pendant ce mois sont d’une importance particulière », souligne le Mowlana Sameer, officiant à Qutb-e-Madinah, Le Hochet, Terre-Rouge.  Les 10 premiers jours représentent la période de la clémence et de la miséricorde divine. Les prières apportent la « Bénédiction » (Rahmat). Du 11e au 20e jour, c’est la période du « Pardon » (Maghfirat), où le fidèle doit demander pardon et se repentir de tous ses péchés. Les dix derniers jours du Ramadan sont consacrés au « Nijaat » qui consiste à chercher refuge auprès d’Allah contre les feux de l’enfer. 
 
-[Source](https://lecoranetlasunnah.wordpress.com/2016/06/07/les-invocations-pour-la-rupture-du-jeune-selon-la-sounna-du-prophete-mouhammad-r-et-les-pratiques-repandues/)
+« Pendant le Ramadhan, le corps et l’âme sont purifiés. Toutes les leçons tirées de cette période bénie doivent être prises en considération afin de ne pas répéter les erreurs du passé, après le Ramadan. Il faut continuer à faire du bien et à aider son prochain », souligne le Mowlana Sameer.
+
+Si le jeûne est obligatoire, il indique toutefois qu’il y a quelques exceptions, notamment pour les personnes malades, les voyageurs et les femmes qui ont leurs menstruations. Cependant, les jours de jeûne manqués peuvent être rattrapés après le Ramadan.
+
+Le Ramadan est également le mois de la générosité et du partage. « C’est une période d’intense générosité où il faut se soucier des autres et appliquer l’aumône. » Ce mois béni célèbre aussi le moment où Allah (Dieu) a révélé le Coran, les textes sacrés de la religion islamique. « C’est le mois le plus important de l’année. C’est le mois de la révélation du Coran », explique notre interlocuteur.
+
+## [Invocation à la rupture du jeune](https://lecoranetlasunnah.wordpress.com/2016/06/07/les-invocations-pour-la-rupture-du-jeune-selon-la-sounna-du-prophete-mouhammad-r-et-les-pratiques-repandues/)
+
+`Allâhoumma laka Soumtou, wa bika âmanntou, wa ‘alâ rizqika aftartou, fâghfirlî  mâ qaddamtou  wa mâ akhartou .`
+
+    « Seigneur ! C’est pour Toi que j’ai jeûné, et j’ai cru en Toi. J’ai rompu mon  jeûne  en goûtant de Ton bien. Pardonne-moi (mes fautes) passées et à venir »
 
 ## Prières du mois
 
@@ -72,3 +82,9 @@ Au jour du jugement dernier, il se lèvera de son tombeau comblé de lumière de
 ## Sources
 
 * Les pratiques de l'islam et du zikr
+
+## [Répartition des jours](https://www.lanation.dj/les-trois-phases-exceptionnelles-du-mois-beni-de-ramadan/)
+
+Le ramadan est divisé en trois périodes, composées de 10 jours chacune, c’est-à-dire, trois fois 10 jours. Et chaque période à son mérite. Selon les hadiths du Prophète (Psl), du 1er au 10ème jour, c’est la période de la clémence et de la miséricorde divine. Du 10ème au 20ème jour qui correspondent aux 10 jours du milieu du ramadan, c’est la période du pardon. Et les 10 derniers jours, c’est la période où les musulmans peuvent être sauvés du feu de l’enfer. C’est vrai que la miséricorde d’Allah qu’on appelle aussi la clémence, englobe son infinie sagesse, comme son infinie bonté et générosité. Contrairement à ce que beaucoup pensent, le mois de ramadan est un mois béni et non sacré. En Islam, nous savons les mois sacrés qui sont très bien répertoriés dans le Coran et ils sont d’ailleurs au nombre de quatre. Il s’agit de Zoul Qihda, Zoul Hidja, Al Mouharam et Rajab. Pendant un mois, on observe une hygiène de vie plus saine. Et il ne s’agit pas de rattraper trois repas le soir.
+
+C’est vrai que jeûner, c’est ressentir la faim de tous ceux qui en souffrent chaque jour de l’année, pour un mois. Le soir, on mange un repas sain et non très copieux. Durant ce mois, nous devons multiplier les prières et les invocations. Nous devons sentir le soir, notre foi augmentée. La première nuit du ramadan, tout démon, tout djinn est empêché dans ses nuisances par la puissance divine. Satan lui-même est enchaîné. Toutes les portes de l’enfer sont fermées, aucune ne s’ouvre. Toutes les portes du paradis sont ouvertes, aucune ne se referme. Le Prophète (Psl) montre qu’un ange fait un rappel aux croyants en disant  : « Oh, toi qui veux du bien, accours. Oh, toi qui veux faire du mal, cesse ». Et cet appel est renouvelé chaque soir. Chaque soir, Allah Swt, sauve de l’enfer un certain nombre de croyants. Donc, le ramadan est miséricorde et pardon. C’est un sauvetage pour tout musulman.
