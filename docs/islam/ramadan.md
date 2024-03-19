@@ -18,7 +18,7 @@ Le Ramadan est également le mois de la générosité et du partage. « C’est 
 
 `Allâhoumma laka Soumtou, wa bika âmanntou, wa ‘alâ rizqika aftartou, fâghfirlî  mâ qaddamtou  wa mâ akhartou .`
 
-    « Seigneur ! C’est pour Toi que j’ai jeûné, et j’ai cru en Toi. J’ai rompu mon  jeûne  en goûtant de Ton bien. Pardonne-moi (mes fautes) passées et à venir »
+« Seigneur ! C’est pour Toi que j’ai jeûné, et j’ai cru en Toi. J’ai rompu mon  jeûne  en goûtant de Ton bien. Pardonne-moi (mes fautes) passées et à venir »
 
 ## Prières du mois
 
