@@ -79,6 +79,30 @@ Au jour du jugement dernier, il se lèvera de son tombeau comblé de lumière de
 
 **Récompense :** Allah vous donnera l'équivalence des récompenses des patiens et des reconnaissants et vous aurez les récompenses de celui qui a lu le glorieux Coran et on inscrira à votre compte les bienfaits de 70 années de dévotion à Allah. on lui affectera deu anges qui inscriront vos bienfaits et effacerons vos péchés jusqu'au jour du jugement dernier: Allah agréeera vos prières et votre jeune.  
 
+### <span style="color:red">Nuit 10</span>
+
+[ ]  4 Rakas : 1 Fatiha, 1 Ayatoul Koursi, 12 Sourate Quadri
+
+**Récompense :** .  
+
+### <span style="color:red">Nuit 11</span>
+
+[ ]  4 Rakas : 1 Fatiha, 7 tabat yada, 7 ikhlass
+
+**Récompense :** .  
+
+### Nuit 12
+
+[ ]  10 Rakas : 1 Fatiha, 6 ikhlass
+
+**Récompense :** Pour celui qui fera cette prière, Allah donnera 100 épouses (houris) au paradis et pour chaque unité, il aura 70 sources. Allah lui pardonnera tous ses péchés, fussent ils égaux aux vagues des océans, il aura les bienfaits de celui qui a lu les 4 livres sacrés.  
+
+### Nuit 13
+
+[x]  2 Rakas : 1 Fatiha, 5 ikhlass
+
+**Récompense :** Vous aurez la récompense de celui qui aurait fait 1000 rakas, jeuné 20 années durant, et vous aurez au paradis 7 palais en joyaux, métaux précieux de différentes sortes.  
+
 ## Sources
 
 * Les pratiques de l'islam et du zikr
