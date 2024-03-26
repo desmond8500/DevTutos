@@ -99,9 +99,27 @@ Au jour du jugement dernier, il se lèvera de son tombeau comblé de lumière de
 
 ### Nuit 13
 
-[x]  2 Rakas : 1 Fatiha, 5 ikhlass
+[]  2 Rakas : 1 Fatiha, 5 ikhlass
 
 **Récompense :** Vous aurez la récompense de celui qui aurait fait 1000 rakas, jeuné 20 années durant, et vous aurez au paradis 7 palais en joyaux, métaux précieux de différentes sortes.  
+
+### <span style="color:red">Nuit 14</span>
+
+[]  2 Rakas : 1 Fatiha, 5 ikhlass
+
+**Récompense :** 
+
+### Nuit 15 - 24 mars 2024
+
+[]  2 Rakas : 1 Fatiha,  1 Sourate nassri , 35 Ikhlass
+
+**Récompense :** Allah agréera vos prières, votre jeune et changera vos aspérités(méfaits) en bienfaits et pour chaque lettre lue vous aurez une citée au paradis; vous serez récompensé comme celui qui a nourri tous les jeuneurs de la communauté du prophète PSL
+
+### Nuit 16 - 25 mars 2024
+
+[]  2 Rakas : 1 Fatiha, 10 Izazoulzilati
+
+**Récompense :** Allah vous pardonnera tous vos péchés. Vos difficultés serornt aplanies et vous serez protégés contre les fléaux, dans ce monde ci et vous ne serez pas appauvris. Allah introduira dans vos demeures l'aisance et la miséricorde. Vous entrerez au paradis en compagnie des pieux.  
 
 ## Sources
 
