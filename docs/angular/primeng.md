@@ -31,6 +31,16 @@ export const appConfig: ApplicationConfig = {
 };
 ```
 
+Pour primeflex
+
+```console
+npm install primeflex
+```
+
+```css
+@import "primeflex/primeflex.css";
+```
+
 ## Sources
 
 * [PrimeNG](https://primeng.org/installation)
