@@ -135,6 +135,18 @@ Au jour du jugement dernier, il se lèvera de son tombeau comblé de lumière de
 Pour chaque lettre lue, vous aurez une citté au paradis, vous aurez les récompenses de celui qui a adoré pieusement Allah, pendant 70ans, en jeunant le jour et en s'adonnant aux oeuvres pieuses la nuit.  
 Il est comme s'il avait récité 100 fois le saitn coran, acompli 100 oumra. on inscrit à son compte des bienfaits équivalents à ceux du prophète Haroun et il ne quittera point ce monde sans voir sa place au paradis; il comptera au jour dernier parmis les bienheureux.
 
+### <span style="color:red">Nuit 19</span>  - 28 Mars 2024
+
+[ ]  2 Rakas : 1 Fatiha, 5 ikhlass
+
+**Récompense :** 
+
+### Nuit 20 - 29 Mars 2024
+
+[ ]  8 Rakas : 1 Fatiha, 1 Quadri 3 ikhlass
+
+**Récompense :** Vous aurez les bienfaits équivalent au nombre de récompenses et Allah vous pardonnera totalement et vous préservera contre l'obscurité de la tombe. Vous entrerez au paradis confiant, rassuré avec le prophète PSL. 
+
 ## Sources
 
 * Les pratiques de l'islam et du zikr
