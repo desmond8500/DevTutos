@@ -145,7 +145,32 @@ Il est comme s'il avait récité 100 fois le saitn coran, acompli 100 oumra. on 
 
 [ ]  8 Rakas : 1 Fatiha, 1 Quadri 3 ikhlass
 
-**Récompense :** Vous aurez les bienfaits équivalent au nombre de récompenses et Allah vous pardonnera totalement et vous préservera contre l'obscurité de la tombe. Vous entrerez au paradis confiant, rassuré avec le prophète PSL. 
+**Récompense :** Vous aurez les bienfaits équivalent au nombre de récompenses et Allah vous pardonnera totalement et vous préservera contre l'obscurité de la tombe. Vous entrerez au paradis confiant, rassuré avec le prophète PSL.
+
+### Nuit 21 - 30 Mars 2024
+
+[ ]  8 Rakas : 1 Fatiha, 1 Quadri 3 ikhlass
+
+**Récompense :** 
+
+### Nuit 22 - 31 Mars 2024
+
+[ ]  8 Rakas : 1 Fatiha, 1 Quadri 3 ikhlass
+
+**Récompense :** 
+
+### Nuit 23 - 01 Avril 2024
+
+[ ]  4 Rakas : 1 Fatiha, 5 Issa dia a nassroulahi, 5 ikhlass
+
+**Récompense :** Celui qui a fait cette prière , Allah lui pardonnera tous ses pchs; il sera assur d'en ^^etre dpouill totalement, il sera comme au jour de sa naissance.
+Deux anges écritonts ses bienfaits et ffaceront ses mfaits cette année jusqu'à la suivante; il mourra martyr et sa tombe sera une place au paradis; il se lèvera le jour du jugemet dernier avec une lumière devant et dérrière lui; et traversera sirat comme l'éclair.
+
+### Nuit 24 - 02 Avril 2024
+
+[ ]  6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
+
+**Récompense :** vous recevrez votre livre d la main droite, vos opérations seront facilitées et vous serez dans la salvation divine le jour du jugement dernier.
 
 ## Sources
 
