@@ -172,6 +172,36 @@ Deux anges écritonts ses bienfaits et ffaceront ses mfaits cette année jusqu'�
 
 **Récompense :** vous recevrez votre livre d la main droite, vos opérations seront facilitées et vous serez dans la salvation divine le jour du jugement dernier.
 
+### Nuit 25 - 03 Avril 2024
+
+[ ]  6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
+
+**Récompense :**
+
+### Nuit 26 - 04 Avril 2024
+
+[ ]  6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
+
+**Récompense :**
+
+### Nuit 27 - 05 Avril 2024
+
+[ ]  6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
+
+**Récompense :**
+
+### Nuit 28 - 06 Avril 2024
+
+[ ]  6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
+
+**Récompense :**
+
+### Nuit 29 - 07 Avril 2024
+
+[ ]  6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
+
+**Récompense :**
+
 ## Sources
 
 * Les pratiques de l'islam et du zikr
