@@ -186,9 +186,9 @@ Deux anges écritonts ses bienfaits et ffaceront ses mfaits cette année jusqu'�
 
 ### Nuit 27 - 05 Avril 2024
 
-[ ]  6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
+[ ]  6 Rakas : 1 Fatiha, 10 Quadri
 
-**Récompense :**
+**Récompense :** Les récompenses de celui qui aurait fait cette prière sont incaculculables et comparables aux nombres infinis de rayons solires et lunaires, il sera placé au rang des apotres d'Allah.
 
 ### Nuit 28 - 06 Avril 2024
 
@@ -200,7 +200,7 @@ Deux anges écritonts ses bienfaits et ffaceront ses mfaits cette année jusqu'�
 
 [ ]  6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
 
-**Récompense :**
+**Récompense :** 
 
 ## Sources
 

@@ -1,20 +1,13 @@
 # DEV Tutos
 
-## Front End
-
-1. [Html](html)
-1. [Css](css)
-1. [Angular](angular)
-1. [Ionic](ionic)
-1. [Vue](vue)
-1. [Astro](astro)
-1. [Flutter](flutter)
-1. [TypeScript](typescript/readme.md)
-
-## Backend End
+## Developpement Web
 
 1. [Laravel](laravel)
-2. [Gestion de projet Informatique](projet.md)
+1. [Javascript](javascript/)
+1. [Html](html)
+1. [Css](css)
+1. [Flutter](flutter)
+1. [Gestion de projet Informatique](projet.md)
 
 ## Technique
 
