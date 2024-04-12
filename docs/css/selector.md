@@ -1,8 +1,6 @@
-# [Selecteurs CSS](/readme.md)
+# [Selecteurs CSS](readme.md)
 
 ## Description
-
-## Inputs
 
 ## Inputs
 

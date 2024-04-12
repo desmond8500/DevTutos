@@ -16,6 +16,9 @@
 4. [PocketBase](https://pocketbase.io/)
 5. [Directus](https://directus.io/)
 
+## Librairies
+
+1. [Highlightjs](https://highlightjs.org/), permet de formater du code
 
 ### Composants angular
 

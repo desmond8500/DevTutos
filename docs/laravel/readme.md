@@ -34,6 +34,7 @@ composer create-project laravel/laravel example-app
 * [Composer](composer.md)
 * [Cashier](cashier.md)
 * [Trait](trait.md)
+* [Swagger](swagger.md)
 
 ## Packages
 

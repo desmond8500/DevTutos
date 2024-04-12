@@ -1,4 +1,4 @@
-# [Flexbox](../readme.md)
+# [Flexbox](readme.md)
 
 ## Description
 
