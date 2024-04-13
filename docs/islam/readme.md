@@ -12,3 +12,4 @@
 * [Ramadan](ramadan.md)
 * [Sourates](./sourates/readme.md)
 * [Noms d'Allah](noms/000.md)
+* [Zakat](zakat.md)

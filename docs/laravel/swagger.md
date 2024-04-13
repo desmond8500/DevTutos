@@ -7,6 +7,12 @@ composer require "darkaonline/l5-swagger"
 php artisan vendor:publish --provider "L5Swagger\L5SwaggerServiceProvider"
 ```
 
+Il faudra ensuite rechercher le fichier `L5-swagger.php` puis mettre la valeur **Generate_always** à true.  
+
+```php
+'generate_always' => env('L5_SWAGGER_GENERATE_ALWAYS', true),
+```
+
 Créer un controlleur puis ajouter dedans : 
 
 ```php
@@ -39,4 +45,5 @@ class IndexController extends Controller
 
 ## Sources
 
-* [](https://github.com/DarkaOnLine/L5-Swagger)
+* [L5-Swagger](https://github.com/DarkaOnLine/L5-Swagger)
+* [Youtube](https://www.youtube.com/watch?v=sODdVdIk90c&ab_channel=DavidSilva)
