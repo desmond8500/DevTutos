@@ -9,3 +9,6 @@
 * [Hadith](Hadith.md)
 * [Péchés](peches.md)
 * [Rachid](rachid.md)
+* [Ramadan](ramadan.md)
+* [Sourates](./sourates/readme.md)
+* [Noms d'Allah](noms/000.md)

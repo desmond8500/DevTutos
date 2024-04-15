@@ -19,6 +19,8 @@
 1. [Deploiement](deploiement.md)
 1. [Methodes](methods.md)
 1. [Validations](validation.md)
+1. [Signal](signal.md)
+1. [PrimeNG](primeng.md)
 
 ## Modèles
 

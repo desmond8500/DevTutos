@@ -6,6 +6,10 @@
 composer create-project laravel/laravel example-app
 ```
 
+## Code Usuel
+
+* [DashTools](dashtools.md)
+
 ## Table des matières
 
 * [Artisan](artisan.md)
@@ -29,6 +33,8 @@ composer create-project laravel/laravel example-app
 * [API](api.md)
 * [Composer](composer.md)
 * [Cashier](cashier.md)
+* [Trait](trait.md)
+* [Swagger](swagger.md)
 
 ## Packages
 

@@ -45,9 +45,6 @@ Hello, {{ msg }}
 </script>
 ```
 
-{{ count }}
-<button @click="count++">Click Me!</button>
-<script setup>
-    import { h, ref } from 'vue'
-    const count = ref(0)
-</script>
+## Sources
+
+*[Vuepress](https://vuepress.vuejs.org/)
