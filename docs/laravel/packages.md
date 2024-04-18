@@ -2,15 +2,24 @@
 
 ## Laravel
 
-* [Laravel Framework](https://laravel.com/docs/9.x)
-* [Laravel Livewire](https://laravel-livewire.com/docs/2.x/quickstart)
+## Best
+
+* [Laravel Framework](https://laravel.com/)
+* [Livewire](https://livewire.laravel.com/)
+* [Laravel Spatie Permission](https://github.com/spatie/laravel-permission)
+* [Laravel domPDF](https://github.com/barryvdh/laravel-dompdf)
+* [Laravel Excel](https://docs.laravel-excel.com/3.1/getting-started/installation.html)
+* [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown)
+* [Laravel Sanctum](https://laravel.com/docs/8.x/sanctum)
+* [Lib phone number for PHP](https://github.com/giggsey/libphonenumber-for-php#installation)
+* [Laravel Lang](https://github.com/Laravel-Lang/lang)
+
+## To Check
+
 * [Wire element Modal](https://github.com/wire-elements/modal)
 * [Laravel Parsedown](https://github.com/parsedown/laravel)
-* [Laravel Spatie Permission](https://github.com/spatie/laravel-permission)
 * [Infyom](https://infyom.com/)
-* [Laravel domPDF](https://github.com/barryvdh/laravel-dompdf)
 * [Laravel Goutte](https://github.com/dweidner/laravel-goutte)
-* [Laravel Excel](https://docs.laravel-excel.com/3.1/getting-started/installation.html)
 * [Axiom](https://github.com/caneara/axiom)
 * [Jetstrap](https://github.com/nascent-africa/jetstrap)
 * [laravel cascade softdeletes](https://github.com/michaeldyrynda/laravel-cascade-soft-deletes)
