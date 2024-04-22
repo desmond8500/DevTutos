@@ -18,3 +18,5 @@
 * demander le paradis et la préservation contre l'enfer
 
 [youtube](https://www.youtube.com/watch?v=Dq5sQafDhI8)
+[Citadelle du mulsulman](https://d1.islamhouse.com/data/fr/ih_books/single/fr_Fortress_of_the_Muslim.pdf)
+[Citadelle du mulsulman](https://citadelledumusulman.com/)
