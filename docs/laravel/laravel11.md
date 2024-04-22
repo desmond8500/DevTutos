@@ -6,9 +6,9 @@
 composer create-project laravel/laravel example-app
 ```
 
-## Librairies annexes
+## Livewire
 
-**Livewire** : Pour créer des pages dynamiques
+Livewire est une librairie qui permet de dynamiser les pages avec du code PHP
 
 ```console
 composer require livewire/livewire
@@ -20,6 +20,14 @@ Publier la page de base
 php artisan livewire:layout
 ```
 
+## Localisation
+
+```console
+composer require --dev laravel-lang/common
+php artisan lang:add fr
+php artisan lang:update
+```
+
 ## themes
 
-[tabler](https://preview.tabler.io/index.html)
+[Tabler](https://preview.tabler.io/index.html)

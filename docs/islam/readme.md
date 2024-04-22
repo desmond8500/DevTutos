@@ -13,3 +13,4 @@
 * [Sourates](./sourates/readme.md)
 * [Noms d'Allah](noms/000.md)
 * [Zakat](zakat.md)
+* [La prière](priere.md)
