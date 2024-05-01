@@ -1,8 +1,14 @@
 # [Angular 17](readme.md)
 
-## Description
+## Installation
 
-## Httpclient
+```console
+ng new my-app
+```
+
+## Configurations
+
+### Httpclient
 
 Ajouter le _provideHttpClient_ dans le fichier `app.configs.ts`
 
@@ -18,6 +24,11 @@ export const appConfig: ApplicationConfig = {
   providers: [provideRouter(routes), provideAnimations(), provideHttpClient()],
 };
 ```
+
+## Themes
+
+[Tabler](../tabler.md)
+[PrimeNG](../primeNG.md)
 
 ## If condition
 
