@@ -4,7 +4,7 @@
 
 ## Flexes
 
-Code: 0123 / 123
+Code: 0123
 
 ## Sources
 
