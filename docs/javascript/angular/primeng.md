@@ -4,7 +4,7 @@
 
 C'est une librairie de composants pour angular
 
-## Installation
+## Installation PrimeNG
 
 ```console
 npm install primeng
@@ -31,7 +31,7 @@ export const appConfig: ApplicationConfig = {
 };
 ```
 
-Pour primeflex
+## Installation de primeFlex
 
 ```console
 npm install primeflex
@@ -41,7 +41,18 @@ npm install primeflex
 @import "primeflex/primeflex.css";
 ```
 
+## Installation de prime Icons
+
+```console
+npm install primeicons
+```
+
+```css
+@import "primeicons/primeicons.css";
+```
+
 ## Sources
 
 * [PrimeNG](https://primeng.org/installation)
 * [PrimeFlex](https://primeflex.org/installation)
+* [PrimeIcons](https://primeng.org/icons)

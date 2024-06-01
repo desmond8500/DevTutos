@@ -28,6 +28,14 @@ php artisan lang:add fr
 php artisan lang:update
 ```
 
+## Jquery
+
+Il faut importer Jquery avant tous les autres liens js
+
+```htm
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+```
+
 ## themes
 
 [Tabler](https://preview.tabler.io/index.html)

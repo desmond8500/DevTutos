@@ -8,6 +8,10 @@ ng new my-app
 
 ## Configurations
 
+### Routerlink
+
+Importer le Routermodule pour chaque routerlink
+
 ### Httpclient
 
 Ajouter le _provideHttpClient_ dans le fichier `app.configs.ts`

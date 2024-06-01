@@ -45,11 +45,13 @@
 
 * [Carbon](carbon.md)
 * [Packages](packages.md)
-* [Cashier](cashier.md)
-* [Swagger](swagger.md)
-* [Livewire](livewire.md)
+
+* [Laravel Cashier](cashier.md)
+* [Laravel Livewire](livewire.md)
 * [Laravel Sanctum](sanctum.md)
 * [NativePHP](Nativephp.md)
+
+* [Swagger](swagger.md)
 
 ## Source
 
