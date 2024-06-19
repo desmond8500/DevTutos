@@ -49,6 +49,26 @@ class IndexController extends Controller
 }
 ```
 
+## Annotation GET
+
+```php
+/**
+ * @SWG\Get(
+ *     path="/users",
+ *     summary="Get a list of users",
+ *     tags={"Users"},
+ *     @SWG\Response(response=200, description="Successful operation"),
+ *     @SWG\Response(response=400, description="Invalid request")
+ * )
+ */
+public function index()
+{
+    // Your API logic here
+}
+```
+
+## Annotation Post
+
 ```php
  /**
  * @OA\Post(
@@ -77,27 +97,13 @@ public function login(){
 }
 ```
 
+## Générer le fichier
+
 ```console
 php artisan l5-swagger:generate
 ```
 
-## Annotation GET
-
-```php
-/**
- * @SWG\Get(
- *     path="/users",
- *     summary="Get a list of users",
- *     tags={"Users"},
- *     @SWG\Response(response=200, description="Successful operation"),
- *     @SWG\Response(response=400, description="Invalid request")
- * )
- */
-public function index()
-{
-    // Your API logic here
-}
-```
+[lien](http://localhost:8000/api/documentation)
 
 ## Sources
 
