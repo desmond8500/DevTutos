@@ -51,6 +51,7 @@
 * [Laravel Livewire](livewire.md)
 * [Laravel Sanctum](sanctum.md)
 * [NativePHP](Nativephp.md)
+* [Laravel Permissions](permissions.md)
 
 * [Swagger](swagger.md)
 

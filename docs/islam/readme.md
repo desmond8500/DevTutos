@@ -16,3 +16,4 @@
 * [La prière](priere.md)
 * [Bonnes pratiques](pratiques.md)
 * [La citadelle du musulmant](citadelle.md)
+* [Le Zikr](zikr.md)
