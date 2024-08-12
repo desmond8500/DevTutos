@@ -1,10 +1,12 @@
-# [Laravel 10](../readme.md)
+# [Laravel 11](../readme.md)
 
-## Installation
+## Description
 
-```console
-composer create-project laravel/laravel example-app
-```
+[Laravel](https://laravel.com) est un framework web PHP.
+
+## Mise en place
+
+* [Laravel 11](laravel11.md)
 
 ## Code Usuel
 
@@ -15,14 +17,11 @@ composer create-project laravel/laravel example-app
 * [Artisan](artisan.md)
 * [Blade](blade.md)
 * [Modèles](modeles.md)
-* [Carbon](carbon.md)
 * [Dates](dates.md)
 * [Erreurs](erreurs.md)
 * [Expressions](expressions.md)
 * [Fichiers](fichiers.md)
-* [Livewire](livewire.md)
 * [Numbers](number.md)
-* [Packages](packages.md)
 * [Relations](relations.md)
 * [Stubs](stubs.md)
 * [Fonctions](fonctions.md)
@@ -32,14 +31,29 @@ composer create-project laravel/laravel example-app
 * [Validation](validation.md)
 * [API](api.md)
 * [Composer](composer.md)
-* [Cashier](cashier.md)
 * [Trait](trait.md)
-* [Swagger](swagger.md)
+
+## Template
+
+* [Tabler](tabler.md)
+
+## Sécurité
+
+* [Grafikart](https://www.youtube.com/watch?v=dIcPQAzF9VA&list=TLPQMTcwNDIwMjRWEGzzJ_ecFQ&index=4)
 
 ## Packages
 
+* [PDF](pdf.md)
+* [Carbon](carbon.md)
+* [Packages](packages.md)
+
+* [Laravel Cashier](cashier.md)
+* [Laravel Livewire](livewire.md)
 * [Laravel Sanctum](sanctum.md)
 * [NativePHP](Nativephp.md)
+* [Laravel Permissions](permissions.md)
+
+* [Swagger](swagger.md)
 
 ## Source
 

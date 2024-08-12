@@ -12,3 +12,8 @@
 * [Ramadan](ramadan.md)
 * [Sourates](./sourates/readme.md)
 * [Noms d'Allah](noms/000.md)
+* [Zakat](zakat.md)
+* [La prière](priere.md)
+* [Bonnes pratiques](pratiques.md)
+* [La citadelle du musulmant](citadelle.md)
+* [Le Zikr](zikr.md)
