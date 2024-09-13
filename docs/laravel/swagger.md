@@ -103,7 +103,51 @@ public function login(){
 php artisan l5-swagger:generate
 ```
 
+
 [lien](http://localhost:8000/api/documentation)
+
+## Sécurité avec un bearer token
+
+Dans le controlleur principal
+
+```php
+/**
+ * @OA\Info(title="My API", version="1.0.0")
+ */
+
+/**
+ * @OA\SecurityScheme(
+ *     type="http",
+ *     description="Use a Bearer token to access this API",
+ *     name="Authorization",
+ *     in="header",
+ *     scheme="bearer",
+ *     bearerFormat="JWT",
+ *     securityScheme="bearerAuth"
+ * )
+ */
+
+```
+
+il faut ensuite appliquer la sécurité sur les endpoints: 
+
+```php
+/**
+ * @OA\Get(
+ *     path="/api/example",
+ *     summary="Get an example resource",
+ *     @OA\Response(response="200", description="Successful response"),
+ *     @OA\Response(response="401", description="Unauthorized"),
+ *     security={{"bearerAuth": {}}}
+ * )
+ */
+public function getExampleResource()
+{
+    // Your code for this API method
+}
+```
+
+
 
 ## Sources
 
