@@ -7,4 +7,6 @@
 * [Esser](esser.md)
 * [Inim](Inim.md)
 * [Detov](detnov.md)
+* [Notifier](notifier)
+* [BPS](notifier/bps.msd)
 * [Cables](cables.md)
