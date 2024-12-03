@@ -165,7 +165,19 @@ php artisan make:component modal
         $this->emit('list',$this->list);
     }
     ```
+
+## Javascript
+
+```php
+    public $title = '';
  
+    public function save()
+    {
+        // ...
+ 
+        $this->js("alert('Post saved!')"); 
+    }
+```
 
 ## Sources
 
