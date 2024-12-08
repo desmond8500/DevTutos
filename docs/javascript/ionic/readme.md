@@ -8,6 +8,10 @@
 1. [Toasts](toast.md)
 1. [Deploiement](deploy.md)
 
+## Version
+
+`ionic -v`
+
 ## Sources
 
 * [Ionic](https://ionicframework.com)

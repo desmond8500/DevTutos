@@ -1,7 +1,5 @@
 # [Commandes Artisan](readme.md)
 
-[Retour]
-
 ## Lancer le serveur
 
 Lancer un serveur simple

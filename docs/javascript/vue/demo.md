@@ -4,8 +4,8 @@
 
 <div style="margin-top: 15px;">
     <label for="textInput">Entrez un texte :</label>
-    <div class="input">
-        <input id="textInput"  v-model="textInput" />
+    <div class="input" >
+        <input id="textInput" maxlenght="16" v-model="textInput" />
         <button @click="conv">Convertir</button>
     </div>
     <div>
@@ -17,6 +17,7 @@
 export default {
   data() {
     return {
+      input: '',
       texto: '',
       textInput: '',
       result: '',
@@ -65,6 +66,11 @@ export default {
   },
   methods: {
     conv(){
+        // this.input = this.textInput.toLowerCase();
+        // if (input.length > 16) {
+        //     this.input = this.input.slice(0, 16);
+        // }
+        // const words = this.input;
         const words = this.textInput.toLowerCase();
         let elements = Array.from(words);
         this.texto = this.textToInt(elements);
