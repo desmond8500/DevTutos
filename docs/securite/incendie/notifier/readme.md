@@ -11,4 +11,4 @@
 
 ## Sonorisation
 
-* [Amplificaeurs](ampli.md)
+* [Amplificateurs](ampli.md)
