@@ -35,8 +35,12 @@ php artisan config:clear
 
 ## Method Illuminate\Auth\RequestGuard::logout does not exist
 
-C'est lorsque le code `Auth::logout()` ne fonctionne pas il faudra utliser : 
+C'est lorsque le code `Auth::logout()` ne fonctionne pas il faudra utliser :
 
 ```code
 auth()->guard('web')->logout();
 ```
+
+## Fatal error: Array and string offset access syntax with curly braces is no longer supported in /home/Dossier/public/index.php on line 2
+
+Pour corriger le problème il faut aller dans le fichier `/public/index.php` puis supprimer la ligne 2.

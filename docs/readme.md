@@ -23,4 +23,4 @@
 
 1. [Visual Studio Code](tools/vscode.md)
 1. [Librairies](tools/libraires.md)
-1. [git](tools/git.md)
+1. [Git](tools/git.md)
