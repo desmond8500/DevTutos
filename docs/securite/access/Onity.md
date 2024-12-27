@@ -1,16 +1,16 @@
 # [Onity](readme.md)
 
-## Desceription
+## Description
 
 Il faut utiliser le lien de téléchargement pour avoir la dernière version du logiciel, les licences, docs etc
 
-Pour la formation nous avons pris la version 2.1 independent
+Pour la formation nous avons pris la version 2.1 independent (FrontDesk)
 
 ## Installation comme serveur
 
 1. Choix du type d'installation (station ou serveur)
    1. Si on choisi le serveur il faudra :
-      1. Copier laclé de licence
+      1. Copier la clé de licence
       2. le coller dans _server_envkey_
       3. puis save keys
       4. puis faire un get d'une licence ou de la prélicence
