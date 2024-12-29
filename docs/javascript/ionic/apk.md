@@ -2,52 +2,53 @@
 
 ## Commandes
 
-Construire le projet :
+1. Construire le projet :
 
-```bash
-ionic build --prod
-```
+    ```bash
+    ionic build --prod
+    ```
 
-Ajouter capacitor
+    Si les fichiers sont créés dans le dossier *www/browser* il faut copier le contenu dans le dossier *www*
 
-```bash
-npm install @capacitor/android
-```
+2. Ajouter capacitor
 
-Ajouter le dossier android
+    ```bash
+    npm install @capacitor/android
+    ```
 
-```bash
-npx cap add android
-```
+3. Ajouter le dossier android
 
-Dans le dossier android il faut créer le fichier et y ajouter le chemin du sdk
+    ```bash
+    npx cap add android
+    ```
 
-```bash
-touch android/local.properties
-```
+4. Dans le dossier android il faut créer le fichier et y ajouter le chemin du sdk
 
-Synchroniser le dossier android
+    ```bash
+    touch android/local.properties
+    ```
 
-```bash
-npx cap sync
-```
+5. Synchroniser le dossier android
 
-```bash
-sdk.dir=C:/Users/Zacharias/AppData/Local/Android/Sdk
+    ```bash
+    npx cap sync
+    ```
 
-sdk.dir=C:\\Users\\Zacharias\\AppData\\Local\\Android\\Sdk
-```
+    ```bash
+    sdk.dir=C:/Users/Zacharias/AppData/Local/Android/Sdk
 
-Construire l'apk de debug
+    sdk.dir=C:\\Users\\Zacharias\\AppData\\Local\\Android\\Sdk
+    ```
 
-```bash
-cd android
-./gradlew assembleDebug
+6. Construire l'apk de debug
 
-```
+    ```bash
+    cd android
+    ./gradlew assembleDebug
+    ```
 
-Construire l'apk de release
+7. Construire l'apk de release
 
-```bash
-./gradlew assembleRelease
-```
+    ```bash
+    ./gradlew assembleRelease
+    ```
