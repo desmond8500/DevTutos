@@ -8,17 +8,28 @@ Construire le projet :
 ionic build --prod
 ```
 
+Ajouter capacitor
+
+```bash
+npm install @capacitor/android
+```
+
 Ajouter le dossier android
 
 ```bash
 npx cap add android
-npx cap sync
 ```
 
 Dans le dossier android il faut créer le fichier et y ajouter le chemin du sdk
 
 ```bash
-mkdir local.properties
+touch android/local.properties
+```
+
+Synchroniser le dossier android
+
+```bash
+npx cap sync
 ```
 
 ```bash

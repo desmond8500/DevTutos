@@ -2,7 +2,7 @@
 
 ## Onity
 
-* [Onity](Onity.md)
+* [Onity](onity)
 
 ## Honeywell
 
