@@ -29,7 +29,14 @@ Le panneau prendra en charge jusqu'à dix zones de déclenchement, désignées d
 
 | Zone | Description |
 | :-- | :-- |
+| ZF0 | Permet d'activer le positive active sequence |
 | ZF11 | When the drill key is pushed or drill/alarm signal is performed, ZF11 will go active. ZF11 will go to normal after a 5 second delay |
 | ZF12 | When the acknowledge key is pushed, or a block or event acknowledge is performed, ZF12 will go active. After a five-second delay, ZF12 will go to normal. |
 | ZF13 | When the signal silence key is pushed or a signal silence is performed, ZF13 will go active. After a five-second delay, ZF13 will go to normal |
 | ZF14 | When the system reset key is pushed or a system reset is performed, ZF14 will go active. After a ten- second delay, ZF14 will go to normal. |
+
+### Positive Active Sequence (PAS)
+
+S'il est activé en cas d'alarme le systeme se met automatiquement en alarme lorsqu'il n'est pas acquitté au bout de 15s.  
+Il est doit être ajouté sur les détecteurs et les modules concernés.  
+Pour le DVC nous devons ajouter une zone en positive sequence dans l'équation de niveau.
