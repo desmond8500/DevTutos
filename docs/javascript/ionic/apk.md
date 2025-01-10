@@ -1,5 +1,14 @@
 # [Générer Apk](readme.md)
 
+## Resumé
+
+```bash
+ionic build --prod
+mv www/browser/* www/
+npx cap sync
+./gradlew assembleDebug
+```
+
 ## Commandes
 
 1. Construire le projet :
