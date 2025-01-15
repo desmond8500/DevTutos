@@ -4,4 +4,4 @@
 
 ## Sources
 
-* [Laravel Doc](https://laravel.com/docs/10.x/sanctum)
+* [Laravel Doc](https://laravel.com/docs/master/sanctum)
