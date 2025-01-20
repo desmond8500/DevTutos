@@ -24,6 +24,7 @@
 1. [Validations](validation.md)
 1. [Signal](signal.md)
 1. [PrimeNG](primeng.md)
+2. [Ressource API](ressource.md)
 
 ## Modèles
 

@@ -1,6 +1,42 @@
 # [Signal](readme.md)
 
-## Description
+## Utilisation
+
+### Déclarer un signal
+
+```javascript
+quantity = signal(1)
+```
+
+### Update signal
+
+```javascript
+quantity.set(2)
+```
+
+```javascript
+quantity.set(quantity()+2)
+```
+
+### Récupérer la valeur du signal
+
+```javascript
+let test = quantity()
+```
+
+### Effect
+
+```javascript
+effect(() => {
+    console.log(this.quantity())
+})
+```
+
+### Computed
+
+```javascript
+total = computed(() => (return this.price*2))
+```
 
 ## Utiliser un signal avec un service
 

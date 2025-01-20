@@ -16,6 +16,10 @@
 4. [PocketBase](https://pocketbase.io/)
 5. [Directus](https://directus.io/)
 
+## Déploiement
+
+1. [Netlify](netlify.md)
+
 ## Librairies
 
 1. [Highlightjs](https://highlightjs.org/), permet de formater du code
