@@ -7,6 +7,7 @@
 ## Mise en place
 
 * [Laravel 11](laravel11.md)
+* [Laravel API](api.md)
 
 ## Code Usuel
 
@@ -32,6 +33,7 @@
 * [API](api.md)
 * [Composer](composer.md)
 * [Trait](trait.md)
+
 
 ## Template
 

@@ -9,10 +9,12 @@
 1. [Shared Modules (Angular)](../angular/shared_module.md)
 1. [Toasts](toast.md)
 1. [Deploiement](deploy.md)
+1. [Polices](police.md)
+
 
 ## Version
 
-`ionic -v`
+`ionic 
 
 ## Sources
 
