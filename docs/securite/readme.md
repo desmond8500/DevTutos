@@ -5,3 +5,4 @@
 3. [Controle d'accès](access/readme.md)
 4. [Pointage](pointage)
 5. [Vidéo Surveillance](video)
+6. [Appel malade](malade/)
