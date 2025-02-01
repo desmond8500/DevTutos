@@ -11,3 +11,17 @@
 ## Installation
 
 Après la mise à jour de la version du logiciel un mot de passe est demandé c'est `4711`
+
+## Activation de licence
+
+Il faut lancer l'application ``CP99`` puis :
+
+1. Aller sur ``Extra`` puis ``Manage Licences``
+2. Incrire
+3. Scanner le Qr code avec un smartphone
+4. Cliquer sur ``Ajouter``
+5. Scanner le QR code sur le fichie de licence en haut à gauche et commencer par la licence principale ppuis les extensions s'il y en a
+6. Accepter
+7. télécharger la licence
+8. Dans manage licences importer la licence
+
