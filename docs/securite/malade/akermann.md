@@ -8,6 +8,10 @@
 4. se connecter avec l'adresse 10.1.19.2
 5. mp galama
 
+## Configuration des controllers
+
+1. 
+
  
 
 ## Sources
