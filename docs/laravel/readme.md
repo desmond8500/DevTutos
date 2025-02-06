@@ -49,7 +49,7 @@
 * [Carbon](carbon.md)
 * [Packages](packages.md)
 
-* [Laravel Cashier](cashier.md)
+* [Laravel Cashier Stripe](cashier.md)
 * [Laravel Livewire](livewire.md)
 * [Laravel Sanctum](sanctum.md)
 * [NativePHP](Nativephp.md)
