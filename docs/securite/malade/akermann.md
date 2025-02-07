@@ -10,7 +10,18 @@
 
 ## Configuration des controllers
 
-1. 
+
+
+## Config de bus
+
+| Fonction | Code | champ |
+| :-- | :-- | :-- |
+| Scan du bus | scanzbus | champ |
+| Afficher la liste des équipements | viewscan | champ |
+| Réadresser le BUS | adrzbus | champ |
+| Générer la base de donnée | makedb | champ |
+| Afficher la base de données  | viewdb | champ |
+| Analyser le bus | analysezbus | champ |
 
  
 ## Installation
