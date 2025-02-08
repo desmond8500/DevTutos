@@ -13,7 +13,7 @@
 ### Détecteurs
 
 Avant de poser les détecteurs il faut les adresser avec la centrale.  
-Pour programmer un détecteur il faut connecteur un appareil sur la boucle puis faire : 
+Pour programmer un détecteur il faut connecteur un appareil sur la boucle puis faire :
 
 1. ok (Entrer dans le menu)
 2. 2222 (Saisir le code utilisateur)

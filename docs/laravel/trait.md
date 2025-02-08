@@ -4,28 +4,27 @@
 
 Les traits sont un moyen pratique de réutiliser du code.
 
-Vous pouvez créer un dossier `App\Traits`
+```bash
+php artisan make:trait SearchTrait
+```
 
 ```php
 namespace App\Traits;
-trait ArticlePostTrait {
+trait SearchTrait {
     
-    public function share($article) {
-
-    return 'share the article';
+    public function scopeSearch($query, $search, $name = "name")
+    {
+        return $query->where($name, 'like', '%' . $search . '%')->orderBy($name);
     }
 }
 ```
 
 ```php
 class ShareArticle {
-    use ArticlePostTrait;
+    use SearchTrait;
 
-    $reviewArticle = new ReviewArticle;
-    echo $reviewArticle->share(''); // 'share this post' 
-
-    $shareArticle = new ShareArticle;
-    echo $shareArticle->share(''); // 'share this 
+    User::search($this->search);
+    User::search($this->search, 'description');
 }
 ```
 

@@ -4,14 +4,8 @@
 
 [Laravel](https://laravel.com) est un framework web PHP.
 
-## Mise en place
-
 * [Laravel 11](laravel11.md)
 * [Laravel API](api.md)
-
-## Code Usuel
-
-* [DashTools](dashtools.md)
 
 ## Table des matières
 
@@ -34,7 +28,18 @@
 * [Composer](composer.md)
 * [Trait](trait.md)
 
+## Packages
 
+* [PDF](pdf.md)
+* [Carbon](carbon.md)
+* [Packages](packages.md)
+* [Laravel Cashier Stripe](cashier.md)
+* [Laravel Livewire](livewire)
+* [Laravel Sanctum](sanctum.md)
+* [NativePHP](Nativephp.md)
+* [Laravel Permissions](permissions.md)
+* [Swagger](swagger.md)
+  
 ## Template
 
 * [Tabler](tabler.md)
@@ -43,19 +48,11 @@
 
 * [Grafikart](https://www.youtube.com/watch?v=dIcPQAzF9VA&list=TLPQMTcwNDIwMjRWEGzzJ_ecFQ&index=4)
 
-## Packages
 
-* [PDF](pdf.md)
-* [Carbon](carbon.md)
-* [Packages](packages.md)
 
-* [Laravel Cashier Stripe](cashier.md)
-* [Laravel Livewire](livewire.md)
-* [Laravel Sanctum](sanctum.md)
-* [NativePHP](Nativephp.md)
-* [Laravel Permissions](permissions.md)
+## Code Usuel
 
-* [Swagger](swagger.md)
+* [DashTools](dashtools.md)
 
 ## Source
 

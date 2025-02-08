@@ -1,4 +1,4 @@
-# [Liveire Javascript](../readme.md)
+# [Liveire Javascript](readme.md)
 
 ## Wire confirm
 
