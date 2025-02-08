@@ -8,6 +8,22 @@
 4. se connecter avec l'adresse ``10.1.19.2``
 5. mp `galama`
 
+## Configuration des controllers
+
+
+
+## Config de bus
+
+| Fonction | Code | champ |
+| :-- | :-- | :-- |
+| Scan du bus | scanzbus | champ |
+| Afficher la liste des équipements | viewscan | champ |
+| Réadresser le BUS | adrzbus | champ |
+| Générer la base de donnée | makedb | champ |
+| Afficher la base de données  | viewdb | champ |
+| Analyser le bus | analysezbus | champ |
+
+ 
 ## Installation
 
 Après la mise à jour de la version du logiciel un mot de passe est demandé c'est `4711`
