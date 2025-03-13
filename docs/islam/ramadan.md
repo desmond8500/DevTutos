@@ -24,37 +24,37 @@ Le Ramadan est également le mois de la générosité et du partage. « C’est 
 
 ### Nuit 1 - 10 Mars 2024
 
-[ ] 10 Rakas : 1 Fatiha, 2 Kafirouna, 2 Ikhlas  
+10 Rakas : 1 Fatiha, 2 Kafirouna, 2 Ikhlas  
 
 **Récompense :** Préservation de l'enfer et exaucement des voeux
 
 ### Nuit 2 - 11 Mars 2024
 
-[ ] 6 Rakas : 1 Fatiha, 5 Kawthar
+6 Rakas : 1 Fatiha, 5 Kawthar
 
 **Récompense :** Tous les péchés seront pardonnés à celui qui le fait, et il aura les récompense d'un docteur ayant soigné 1000 malades à ses frais.
 
 ### Nuit 3- 12 Mars 2024
 
-[ ] 6 Rakas : 1 Fatiha, 5 Quadri
+6 Rakas : 1 Fatiha, 5 Quadri
 
 **Récompense :** Vous aurez les bienfaits de celui qui a libéré 1000 esclaves, nourri, abrreuvé,et habillé 1000 personnes, Allah vous protègerea contre les tourments de la tombe et la crainte de la mort.
 
 ### Nuit 4 - 13 Mars 2024
 
-[ ] 4 Rakas : 1 Fatiha, 3 Kafiroun
+4 Rakas : 1 Fatiha, 3 Kafiroun
 
 **Récompense :** Vos péchés seront effacés ipso facto, et il vous sera accordé les récompenses de 1000 croyants dévots et de 1000 martyrs.
 
 ### Nuit 5 - 14 Mars 2024
 
-[ ] 4 Rakas : 1 Fatiha, 3 Alam nashra
+4 Rakas : 1 Fatiha, 3 Alam nashra
 
 **Récompense :**
 
 ### Nuit 6 - 15 Mars 2024
 
-[ ]  2 Rakas : 1 Fatiha, 11 ikhlass
+ 2 Rakas : 1 Fatiha, 11 ikhlass
 
 **Récompense :** Vous aurez les récompenses de celui qui a fait 1000 prières dans la mosqué d'Abraham à la mecque et dans la masdjidil Haram et il aura la récompense de celui qui a donné comme charité 1000 dirhams et 1000 repas.  
 Vos prères seront exaucées. Vous aurez les récompenses de celui qui a donné le repas de la rupture à la communauté du prophère (PSL).  
@@ -62,74 +62,74 @@ Sa tombe sera une des places du paradis, vous vous reveillerez de votre tombe le
 
 ### Nuit 7 - 16 Mars 2024
 
-[ ]  6 Rakas : 1 Fatiha, 7 Kafiroun, 7 ikhlass
+ 6 Rakas : 1 Fatiha, 7 Kafiroun, 7 ikhlass
 
 **Récompense :** Allah inscrira à votre profil, pour chaque lettre lue, des bienfaits agrées et vous aurez les récompenses de cuelui qui a fait la charité de 1000 dinars et vous ne demanderez rien qui ne soit exaucé; pour chaue lettre lue on construira pour vous un palais au paradis.  
 
 ### Nuit 8 - 17 Mars 2024
 
-[ ]  2 Rakas : 1 Fatiha, 12 ikhlass
+ 2 Rakas : 1 Fatiha, 12 ikhlass
 
 **Récompense :** Allah inscrira à votre profil, pour chaque lettre lue, les dévotions de 1000ans et il aura les récompenses de celui qui aura restauré la communauté du prophète pendant 70 ans, il aura la récompense de celui qui aurait libéré 1000 fils d'Ismael, et saa prière auprès d'Allah sera exaucé.  
 Au jour du jugement dernier, il se lèvera de son tombeau comblé de lumière devant et dérrière lui et il traversera le pont sirat come un éclair fulgurant; il intercédera pour 70 des siens qui étaient promis à l'enfer. 
 
 ### Nuit 9 - 18 Mars 2024
 
-[ ]  4 Rakas : 1 Fatiha, 7 tabat yada, 7 ikhlass
+ 4 Rakas : 1 Fatiha, 7 tabat yada, 7 ikhlass
 
 **Récompense :** Allah vous donnera l'équivalence des récompenses des patiens et des reconnaissants et vous aurez les récompenses de celui qui a lu le glorieux Coran et on inscrira à votre compte les bienfaits de 70 années de dévotion à Allah. on lui affectera deu anges qui inscriront vos bienfaits et effacerons vos péchés jusqu'au jour du jugement dernier: Allah agréeera vos prières et votre jeune.  
 
 ### <span style="color:red">Nuit 10</span> - 19 Mars 2024
 
-[ ]  4 Rakas : 1 Fatiha, 1 Ayatoul Koursi, 12 Sourate Quadri
+ 4 Rakas : 1 Fatiha, 1 Ayatoul Koursi, 12 Sourate Quadri
 
 **Récompense :** .  
 
 ### <span style="color:red">Nuit 11</span>  - 20 Mars 2024
 
-[ ]  4 Rakas : 1 Fatiha, 7 tabat yada, 7 ikhlass
+ 4 Rakas : 1 Fatiha, 7 tabat yada, 7 ikhlass
 
 **Récompense :** .  
 
 ### Nuit 12  - 21 Mars 2024
 
-[ ]  10 Rakas : 1 Fatiha, 6 ikhlass
+ 10 Rakas : 1 Fatiha, 6 ikhlass
 
 **Récompense :** Pour celui qui fera cette prière, Allah donnera 100 épouses (houris) au paradis et pour chaque unité, il aura 70 sources. Allah lui pardonnera tous ses péchés, fussent ils égaux aux vagues des océans, il aura les bienfaits de celui qui a lu les 4 livres sacrés.  
 
 ### Nuit 13 - 22 Mars 2024
 
-[ ]  2 Rakas : 1 Fatiha, 5 ikhlass
+ 2 Rakas : 1 Fatiha, 5 ikhlass
 
 **Récompense :** Vous aurez la récompense de celui qui aurait fait 1000 rakas, jeuné 20 années durant, et vous aurez au paradis 7 palais en joyaux, métaux précieux de différentes sortes.  
 
 ### <span style="color:red">Nuit 14</span>  - 23 Mars 2024
 
-[ ]  2 Rakas : 1 Fatiha, 5 ikhlass
+ 2 Rakas : 1 Fatiha, 5 ikhlass
 
 **Récompense :** 
 
 ### Nuit 15 - 24 mars 2024
 
-[ ]  2 Rakas : 1 Fatiha,  1 Sourate nassri , 35 Ikhlass
+ 2 Rakas : 1 Fatiha,  1 Sourate nassri , 35 Ikhlass
 
 **Récompense :** Allah agréera vos prières, votre jeune et changera vos aspérités(méfaits) en bienfaits et pour chaque lettre lue vous aurez une citée au paradis; vous serez récompensé comme celui qui a nourri tous les jeuneurs de la communauté du prophète PSL
 
 ### Nuit 16 - 25 mars 2024
 
-[ ]  2 Rakas : 1 Fatiha, 10 Izazoulzilati
+ 2 Rakas : 1 Fatiha, 10 Izazoulzilati
 
 **Récompense :** Allah vous pardonnera tous vos péchés. Vos difficultés serornt aplanies et vous serez protégés contre les fléaux, dans ce monde ci et vous ne serez pas appauvris. Allah introduira dans vos demeures l'aisance et la miséricorde. Vous entrerez au paradis en compagnie des pieux.
 
 ### <span style="color:red">Nuit 17</span>  - 26 Mars 2024
 
-[ ]  2 Rakas : 1 Fatiha, 5 ikhlass
+ 2 Rakas : 1 Fatiha, 5 ikhlass
 
 **Récompense :** 
 
 ### Nuit 18  - 27 Mars 2024
 
-[ ]  10 Rakas : 1 Fatiha, 1 Sourate Ala, 1 Sourate Kafirouna, 1 ikhlass
+ 10 Rakas : 1 Fatiha, 1 Sourate Ala, 1 Sourate Kafirouna, 1 ikhlass
 
 **Récompense :** vous aurez des récompenses de celui qui possedant toutes les richesses, les dépenserait pour Allah.  
 Pour chaque lettre lue, vous aurez une citté au paradis, vous aurez les récompenses de celui qui a adoré pieusement Allah, pendant 70ans, en jeunant le jour et en s'adonnant aux oeuvres pieuses la nuit.  
@@ -137,68 +137,68 @@ Il est comme s'il avait récité 100 fois le saitn coran, acompli 100 oumra. on 
 
 ### <span style="color:red">Nuit 19</span>  - 28 Mars 2024
 
-[ ]  2 Rakas : 1 Fatiha, 5 ikhlass
+ 2 Rakas : 1 Fatiha, 5 ikhlass
 
 **Récompense :** 
 
 ### Nuit 20 - 29 Mars 2024
 
-[ ]  8 Rakas : 1 Fatiha, 1 Quadri 3 ikhlass
+ 8 Rakas : 1 Fatiha, 1 Quadri 3 ikhlass
 
 **Récompense :** Vous aurez les bienfaits équivalent au nombre de récompenses et Allah vous pardonnera totalement et vous préservera contre l'obscurité de la tombe. Vous entrerez au paradis confiant, rassuré avec le prophète PSL.
 
 ### Nuit 21 - 30 Mars 2024
 
-[ ]  8 Rakas : 1 Fatiha, 1 Quadri 3 ikhlass
+ 8 Rakas : 1 Fatiha, 1 Quadri 3 ikhlass
 
 **Récompense :** 
 
 ### Nuit 22 - 31 Mars 2024
 
-[ ]  8 Rakas : 1 Fatiha, 1 Quadri 3 ikhlass
+ 8 Rakas : 1 Fatiha, 1 Quadri 3 ikhlass
 
 **Récompense :** 
 
 ### Nuit 23 - 01 Avril 2024
 
-[ ]  4 Rakas : 1 Fatiha, 5 Issa dia a nassroulahi, 5 ikhlass
+ 4 Rakas : 1 Fatiha, 5 Issa dia a nassroulahi, 5 ikhlass
 
 **Récompense :** Celui qui a fait cette prière , Allah lui pardonnera tous ses pchs; il sera assur d'en ^^etre dpouill totalement, il sera comme au jour de sa naissance.
 Deux anges écritonts ses bienfaits et ffaceront ses mfaits cette année jusqu'à la suivante; il mourra martyr et sa tombe sera une place au paradis; il se lèvera le jour du jugemet dernier avec une lumière devant et dérrière lui; et traversera sirat comme l'éclair.
 
 ### Nuit 24 - 02 Avril 2024
 
-[ ]  6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
+ 6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
 
 **Récompense :** vous recevrez votre livre d la main droite, vos opérations seront facilitées et vous serez dans la salvation divine le jour du jugement dernier.
 
 ### Nuit 25 - 03 Avril 2024
 
-[ ]  6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
+ 6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
 
 **Récompense :**
 
 ### Nuit 26 - 04 Avril 2024
 
-[ ]  6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
+ 6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
 
 **Récompense :**
 
 ### Nuit 27 - 05 Avril 2024
 
-[ ]  6 Rakas : 1 Fatiha, 10 Quadri
+ 6 Rakas : 1 Fatiha, 10 Quadri
 
 **Récompense :** Les récompenses de celui qui aurait fait cette prière sont incaculculables et comparables aux nombres infinis de rayons solires et lunaires, il sera placé au rang des apotres d'Allah.
 
 ### Nuit 28 - 06 Avril 2024
 
-[ ]  6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
+ 6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
 
 **Récompense :**
 
 ### Nuit 29 - 07 Avril 2024
 
-[ ]  6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
+ 6 Rakas : 1 Fatiha, 3 ikhlass, 3 Falahi, 3 Nassi
 
 **Récompense :** 
 
